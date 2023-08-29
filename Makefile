@@ -7,7 +7,7 @@ all:
 build:
 	$(MAKE) clean
 	$(MAKE) prepare-dir
-	python3.11 scripts/main.py
+	python scripts/main.py
 
 .PHONY: prepare-dir
 prepare-dir:

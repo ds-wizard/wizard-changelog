@@ -384,11 +384,12 @@ Changelog
 
 * *Release: 7 March 2023*
 * **Key changes:**
-    * Two-factor authentication (2FA)
-    * i18n support in document templates
-    * RO-Crate import/export
-    * Warnings on imports
-    * Various optimizations and UI fixes
+  
+  * Two-factor authentication (2FA)
+  * i18n support in document templates
+  * RO-Crate import/export
+  * Warnings on imports
+  * Various optimizations and UI fixes
 
 .. _v3.20.3-frontend:
 
@@ -397,7 +398,8 @@ Changelog
 
 * *Release: 21 February 2023*
 * **Key changes:**
-    * Fix vulnerabilities in the base image
+  
+  * Fix vulnerabilities in the base image
 
 .. _v3.20.2-frontend:
 
@@ -406,7 +408,8 @@ Changelog
 
 * *Release: 10 February 2023*
 * **Key changes:**
-    * Fix based on when creating new document template
+  
+  * Fix based on when creating new document template
 
 .. _v3.20.2-tools:
 
@@ -415,8 +418,9 @@ Changelog
 
 * *Release: 10 February 2023*
 * **Key changes:**
-    * Fix updating template.json using TDK
-    * Fix retrieving app config and questionnaire for documents
+  
+  * Fix updating template.json using TDK
+  * Fix retrieving app config and questionnaire for documents
 
 .. _v3.20.1-tools:
 
@@ -425,7 +429,8 @@ Changelog
 
 * *Release: 9 February 2023*
 * **Key changes:**
-    * Fix creating document template draft from TDK
+  
+  * Fix creating document template draft from TDK
 
 .. _v3.20.1-frontend:
 
@@ -434,7 +439,8 @@ Changelog
 
 * *Release: 8 February 2023*
 * **Key changes:**
-    * Fix document template detail in registry
+  
+  * Fix document template detail in registry
 
 .. _v3.20:
 
@@ -443,9 +449,10 @@ Changelog
 
 * *Release: 7 February 2023*
 * **Key changes:**
-    * Document template editor (`idea <https://ideas.ds-wizard.org/posts/10/document-template-editor>`__)
-    * Mark document template as legacy
-    * Various UI improvements and fixes
+  
+  * Document template editor (`idea <https://ideas.ds-wizard.org/posts/10/document-template-editor>`__)
+  * Mark document template as legacy
+  * Various UI improvements and fixes
 
 .. _v3.19.3-backend:
 
@@ -454,7 +461,8 @@ Changelog
 
 * *Release: 17 January 2023*
 * **Key changes:**
-    * Fix importing KM if file contains .ttl
+  
+  * Fix importing KM if file contains .ttl
 
 .. _v3.19.2-tools:
 
@@ -463,7 +471,8 @@ Changelog
 
 * *Release: 17 January 2023*
 * **Key changes:**
-    * Fix version identification in tools
+  
+  * Fix version identification in tools
 
 .. _v3.19.1-tools:
 
@@ -472,7 +481,8 @@ Changelog
 
 * *Release: 15 January 2023*
 * **Key changes:**
-    * Fix path serialization in TDK
+  
+  * Fix path serialization in TDK
 
 .. _v3.19.2-backend:
 
@@ -481,7 +491,8 @@ Changelog
 
 * *Release: 12 January 2023*
 * **Key changes:**
-    * Fix synchronization of locales from Registry
+  
+  * Fix synchronization of locales from Registry
 
 .. _v3.19.1-frontend:
 
@@ -490,7 +501,8 @@ Changelog
 
 * *Release: 6 January 2023*
 * **Key changes:**
-    * Fix narrow panel in project import view
+  
+  * Fix narrow panel in project import view
 
 .. _v3.19.1-backend:
 
@@ -499,7 +511,8 @@ Changelog
 
 * *Release: 3 January 2023*
 * **Key changes:**
-    * Fix loading string variable from env
+  
+  * Fix loading string variable from env
 
 .. _v3.19:
 
@@ -508,8 +521,9 @@ Changelog
 
 * *Release: 3 January 2023*
 * **Key changes:**
-    * Indications computation
-    * Minor UI improvements and fixes
+  
+  * Indications computation
+  * Minor UI improvements and fixes
 
 .. _v3.18.4-backend:
 
@@ -518,7 +532,8 @@ Changelog
 
 * *Release: 16 December 2022*
 * **Key changes:**
-    * Fix app limit recompute
+  
+  * Fix app limit recompute
 
 .. _v3.18.3-frontend:
 
@@ -527,7 +542,8 @@ Changelog
 
 * *Release: 15 December 2022*
 * **Key changes:**
-    * Fix fallback to default in plural locale strings
+  
+  * Fix fallback to default in plural locale strings
 
 .. _v3.18.3-backend:
 
@@ -536,9 +552,10 @@ Changelog
 
 * *Release: 2 December 2022*
 * **Key changes:**
-    * Add LOC_PERM in default Admin perms
-    * Fix deleting comment threads
-    * Fix not sending a questionnaire event uuid when creating document
+  
+  * Add LOC_PERM in default Admin perms
+  * Fix deleting comment threads
+  * Fix not sending a questionnaire event uuid when creating document
 
 .. _v3.18.2-frontend:
 
@@ -547,7 +564,8 @@ Changelog
 
 * *Release: 1 December 2022*
 * **Key changes:**
-    * Fix resolving default locale
+  
+  * Fix resolving default locale
 
 .. _v3.18.2-backend:
 
@@ -556,7 +574,8 @@ Changelog
 
 * *Release: 1 December 2022*
 * **Key changes:**
-    * Fix resolving default locale
+  
+  * Fix resolving default locale
 
 .. _v3.18.1-frontend:
 
@@ -565,7 +584,8 @@ Changelog
 
 * *Release: 1 December 2022*
 * **Key changes:**
-    * Fix import link from outdated KM alert
+  
+  * Fix import link from outdated KM alert
 
 .. _v3.18.1-backend:
 
@@ -574,8 +594,9 @@ Changelog
 
 * *Release: 1 December 2022*
 * **Key changes:**
-    * Fix description, readme and primary key for locale
-    * Fix creating locale when app is registered
+  
+  * Fix description, readme and primary key for locale
+  * Fix creating locale when app is registered
 
 .. _v3.18:
 
@@ -584,9 +605,10 @@ Changelog
 
 * *Release: 29 November 2022*
 * **Key changes:**
-    * Localizations (`idea <https://ideas.ds-wizard.org/posts/23/translate-into-other-languages>`__)
-    * Filter file extensions when importing KM or template
-    * Logout user when 401 received from API on dashboard
+  
+  * Localizations (`idea <https://ideas.ds-wizard.org/posts/23/translate-into-other-languages>`__)
+  * Filter file extensions when importing KM or template
+  * Logout user when 401 received from API on dashboard
 
 .. _v3.17.1-frontend:
 
@@ -595,7 +617,8 @@ Changelog
 
 * *Release: 14 November 2022*
 * **Key changes:**
-    * Fix security vulnerabilities in base image
+  
+  * Fix security vulnerabilities in base image
 
 .. _v3.17:
 
@@ -604,11 +627,12 @@ Changelog
 
 * *Release: 1 November 2022*
 * **Key changes:**
-    * Consistency checks before publishing KM (`idea <https://ideas.ds-wizard.org/posts/77/check-some-consistency-before-publishing-new-km>`__)
-    * Filter projects by KM (`idea <https://ideas.ds-wizard.org/posts/87/filter-projects-by-km>`__)
-    * Support for ZIP/TAR archives and Excel exports
-    * Use of gettext for client localizations
-    * Support for OpenID logout functionality
+  
+  * Consistency checks before publishing KM (`idea <https://ideas.ds-wizard.org/posts/77/check-some-consistency-before-publishing-new-km>`__)
+  * Filter projects by KM (`idea <https://ideas.ds-wizard.org/posts/87/filter-projects-by-km>`__)
+  * Support for ZIP/TAR archives and Excel exports
+  * Use of gettext for client localizations
+  * Support for OpenID logout functionality
 
 .. _v3.16.3-backend:
 
@@ -617,7 +641,8 @@ Changelog
 
 * *Release: 27 October 2022*
 * **Key changes:**
-    * Fix parsing datetime from database
+  
+  * Fix parsing datetime from database
 
 .. _v3.16.2-backend:
 
@@ -626,7 +651,8 @@ Changelog
 
 * *Release: 12 October 2022*
 * **Key changes:**
-    * Remove KnowledgeModelCache, PackageCache, QuestionnaireContentCache, and QuestionnaireReportCache
+  
+  * Remove KnowledgeModelCache, PackageCache, QuestionnaireContentCache, and QuestionnaireReportCache
 
 .. _v3.16.1-backend:
 
@@ -635,9 +661,10 @@ Changelog
 
 * *Release: 6 October 2022*
 * **Key changes:**
-    * Fix synchronizing feedback issues
-    * Fix deleting user when user is set to createdBy in KM editor and questionnaire
-    * Fix questionnaire recompute job
+  
+  * Fix synchronizing feedback issues
+  * Fix deleting user when user is set to createdBy in KM editor and questionnaire
+  * Fix questionnaire recompute job
 
 .. _v3.16:
 
@@ -646,10 +673,11 @@ Changelog
 
 * *Release: 4 October 2022*
 * **Key changes:**
-    * Import for replies from other questionnaires (`idea <https://ideas.ds-wizard.org/posts/5/import-answers-to-questionnaires>`__)
-    * Collapsible and movable items in list questions
-    * Main menu grouping
-    * Speed optimizations and refactoring
+  
+  * Import for replies from other questionnaires (`idea <https://ideas.ds-wizard.org/posts/5/import-answers-to-questionnaires>`__)
+  * Collapsible and movable items in list questions
+  * Main menu grouping
+  * Speed optimizations and refactoring
 
 .. _v3.15.3-tools:
 
@@ -658,7 +686,8 @@ Changelog
 
 * *Release: 17 September 2022*
 * **Key changes:**
-    * Fix worker on-start DB query memory leaks
+  
+  * Fix worker on-start DB query memory leaks
 
 .. _v3.15.1-backend:
 
@@ -667,7 +696,8 @@ Changelog
 
 * *Release: 14 September 2022*
 * **Key changes:**
-    * Add nonce to OpenID
+  
+  * Add nonce to OpenID
 
 .. _v3.15.2-frontend:
 
@@ -676,7 +706,8 @@ Changelog
 
 * *Release: 14 September 2022*
 * **Key changes:**
-    * Add nonce to OpenID
+  
+  * Add nonce to OpenID
 
 .. _v3.15.2-tools:
 
@@ -685,7 +716,8 @@ Changelog
 
 * *Release: 7 September 2022*
 * **Key changes:**
-    * Fix timezone for job retrieval in workers
+  
+  * Fix timezone for job retrieval in workers
 
 .. _v3.15.1-frontend:
 
@@ -694,7 +726,8 @@ Changelog
 
 * *Release: 7 September 2022*
 * **Key changes:**
-    * Fix document and project template labels
+  
+  * Fix document and project template labels
 
 .. _v3.15.1-tools:
 
@@ -703,7 +736,8 @@ Changelog
 
 * *Release: 7 September 2022*
 * **Key changes:**
-    * Fix document generation exception handling
+
+  * Fix document generation exception handling
 
 .. _v3.15:
 
@@ -712,9 +746,10 @@ Changelog
 
 * *Release: 5 September 2022*
 * **Key changes:**
-    * Project loading optimization
-    * Python components refactoring
-    * Several other fixes and refactoring
+  
+  * Project loading optimization
+  * Python components refactoring
+  * Several other fixes and refactoring
 
 .. _v3.14.1-tools:
 
@@ -723,7 +758,8 @@ Changelog
 
 * *Release: 4 August 2022*
 * **Key changes:**
-    * Fix package-data in dsw-tdk (`new` command)
+  
+  * Fix package-data in dsw-tdk (`new` command)
 
 .. _v3.14.1-backend:
 
@@ -732,8 +768,9 @@ Changelog
 
 * *Release: 4 August 2022*
 * **Key changes:**
-    * Fix document preview for anonymous users
-    * Fix OpenID and template export endpoints not to require a transaction
+  
+  * Fix document preview for anonymous users
+  * Fix OpenID and template export endpoints not to require a transaction
 
 .. _v3.14:
 
@@ -742,9 +779,10 @@ Changelog
 
 * *Release: 2 August 2022*
 * **Key changes:**
-    * Migrate to Bootstrap 5
-    * Improve authentication for downloads
-    * Python components refactoring
+  
+  * Migrate to Bootstrap 5
+  * Improve authentication for downloads
+  * Python components refactoring
 
 .. _v3.13:
 
@@ -753,8 +791,9 @@ Changelog
 
 * *Release: 28 June 2022*
 * **Key changes:**
-    * Prevent user leave unsaved changes
-    * Improved exceptions monitoring
+  
+  * Prevent user leave unsaved changes
+  * Improved exceptions monitoring
 
 .. _v3.12.1-tools:
 
@@ -763,7 +802,8 @@ Changelog
 
 * *Release: 13 June 2022*
 * **Key changes:**
-    * Fix document context for anonymous projects
+  
+  * Fix document context for anonymous projects
 
 .. _v3.12.1-backend:
 
@@ -772,7 +812,8 @@ Changelog
 
 * *Release: 5 June 2022*
 * **Key changes:**
-    * Fix DB pool
+  
+  * Fix DB pool
 
 .. _v3.12:
 
@@ -781,9 +822,10 @@ Changelog
 
 * *Release: 31 May 2022*
 * **Key changes:**
-    * New types of value questions
-    * KM events optimizations
-    * Several bugfixes and UI/UX improvements
+  
+  * New types of value questions
+  * KM events optimizations
+  * Several bugfixes and UI/UX improvements
 
 .. _v3.11:
 
@@ -792,10 +834,11 @@ Changelog
 
 * *Release: 3 May 2022*
 * **Key changes:**
-    * Apply all action for KM migrations
-    * Improved efficiency of document worker
-    * Auto-upgrade default document templates in project
-    * Several bugfixes and UI improvements
+  
+  * Apply all action for KM migrations
+  * Improved efficiency of document worker
+  * Auto-upgrade default document templates in project
+  * Several bugfixes and UI improvements
 
 .. _v3.10.1-backend:
 
@@ -804,8 +847,9 @@ Changelog
 
 * *Release: 17 April 2022*
 * **Key changes:**
-    * Fix settings API
-    * Exclude common exceptions from Sentry logging
+  
+  * Fix settings API
+  * Exclude common exceptions from Sentry logging
 
 .. _v3.10.2-frontend:
 
@@ -814,7 +858,8 @@ Changelog
 
 * *Release: 17 April 2022*
 * **Key changes:**
-    * Fix settings API
+  
+  * Fix settings API
 
 .. _v3.10.1-frontend:
 
@@ -823,7 +868,8 @@ Changelog
 
 * *Release: 6 April 2022*
 * **Key changes:**
-    * Fix style builder
+  
+  * Fix style builder
 
 .. _v3.10:
 
@@ -832,10 +878,11 @@ Changelog
 
 * *Release: 5 April 2022*
 * **Key changes:**
-    * Mailer
-    * Integration widget
-    * Opening Markdown links in new tab/window
-    * Several bugfixes and UI improvements
+  
+  * Mailer
+  * Integration widget
+  * Opening Markdown links in new tab/window
+  * Several bugfixes and UI improvements
 
 .. _v3.9.1-backend:
 
@@ -844,7 +891,8 @@ Changelog
 
 * *Release: 8 March 2022*
 * **Key changes:**
-    * Fix project migration when there are some documents
+  
+  * Fix project migration when there are some documents
 
 .. _v3.9:
 
@@ -853,11 +901,12 @@ Changelog
 
 * *Release: 1 March 2022*
 * **Key changes:**
-    * Basic password requirements
-    * KM Editor: list of questions used with integration
-    * Improved project migration
-    * Usage statistics for administrators
-    * Several bugfixes and UI improvements
+  
+  * Basic password requirements
+  * KM Editor: list of questions used with integration
+  * Improved project migration
+  * Usage statistics for administrators
+  * Several bugfixes and UI improvements
 
 .. _v3.8.2-backend:
 
@@ -866,8 +915,9 @@ Changelog
 
 * *Release: 14 February 2022*
 * **Key changes:**
-    * Fix questionnaire migration with move
-    * Fix squashing KM editor events when publishing KM package
+  
+  * Fix questionnaire migration with move
+  * Fix squashing KM editor events when publishing KM package
 
 .. _v3.8.1-backend:
 
@@ -876,7 +926,8 @@ Changelog
 
 * *Release: 2 February 2022*
 * **Key changes:**
-    * Fix version ordering for KM package and templates in Registry
+  
+  * Fix version ordering for KM package and templates in Registry
 
 .. _v3.8.1-frontend:
 
@@ -885,7 +936,8 @@ Changelog
 
 * *Release: 1 February 2022*
 * **Key changes:**
-    * Fix KM Editor state
+  
+  * Fix KM Editor state
 
 .. _v3.8:
 
@@ -894,7 +946,8 @@ Changelog
 
 * *Release: 1 February 2022*
 * **Key changes:**
-    * Online collaboration in KM Editor
+  
+  * Online collaboration in KM Editor
 
 .. _v3.7:
 
@@ -903,7 +956,8 @@ Changelog
 
 * *Release: 4 January 2022*
 * **Key changes:**
-    * Projects tagging and filtering
+  
+  * Projects tagging and filtering
 
 .. _v3.6.1-tools:
 
@@ -912,7 +966,8 @@ Changelog
 
 * *Release: 9 December 2021*
 * **Key changes:**
-    * Fix document context objectify with tags
+  
+  * Fix document context objectify with tags
 
 .. _v3.6:
 
@@ -921,7 +976,8 @@ Changelog
 
 * *Release: 7 December 2021*
 * **Key changes:**
-    * Enhancing integration question options (item template)
+  
+  * Enhancing integration question options (item template)
 
 .. _v3.5:
 
@@ -930,9 +986,10 @@ Changelog
 
 * *Release: 2 November 2021*
 * **Key changes:**
-    * Additional metadata for KM entities
-    * Improved document submissions
-    * Admin operations
+  
+  * Additional metadata for KM entities
+  * Improved document submissions
+  * Admin operations
 
 .. _v3.4:
 
@@ -941,8 +998,9 @@ Changelog
 
 * *Release: 5 October 2021*
 * **Key changes:**
-    * Comments in projects
-    * New Jinja filters for document context handling
+  
+  * Comments in projects
+  * New Jinja filters for document context handling
 
 .. _v3.3:
 
@@ -951,10 +1009,11 @@ Changelog
 
 * *Release: 8 September 2021*
 * **Key changes:**
-    * Improved default document template
-    * Improved template development experience
-    * Enhanced Search API
-    * Several fixes
+  
+  * Improved default document template
+  * Improved template development experience
+  * Enhanced Search API
+  * Several fixes
 
 .. _v3.2.2-backend:
 
@@ -963,7 +1022,8 @@ Changelog
 
 * *Release: 20 August 2021*
 * **Key changes:**
-    * Fix questionnaire duplications for admin in list view
+  
+  * Fix questionnaire duplications for admin in list view
 
 .. _v3.2.1-backend:
 
@@ -972,7 +1032,8 @@ Changelog
 
 * *Release: 6 August 2021*
 * **Key changes:**
-    * Fix KM package deserialization for Registry
+  
+  * Fix KM package deserialization for Registry
 
 .. _v3.2:
 
@@ -981,9 +1042,10 @@ Changelog
 
 * *Release: 3 August 2021*
 * **Key changes:**
-    * Custom metrics (in KM)
-    * Custom phases (in KM)
-    * Several optimizations
+  
+  * Custom metrics (in KM)
+  * Custom phases (in KM)
+  * Several optimizations
 
 .. _v3.1:
 
@@ -992,8 +1054,9 @@ Changelog
 
 * *Release: 25 June 2021*
 * **Key changes:**
-    * Project templates
-    * Minor UI improvements
+  
+  * Project templates
+  * Minor UI improvements
 
 .. _v3.0:
 
@@ -1002,8 +1065,9 @@ Changelog
 
 * *Release: 1 June 2021*
 * **Key changes:**
-    * Migration from MongoDB and RabbitMQ to PostgreSQL and S3
-    * Deep links feature
+  
+  * Migration from MongoDB and RabbitMQ to PostgreSQL and S3
+  * Deep links feature
 
 .. _v2.14:
 
@@ -1012,9 +1076,10 @@ Changelog
 
 * *Release: 4 May 2021*
 * **Key changes:**
-    * Submitting forms using Enter key
-    * Shortcuts for KM Editor and Forking KM
-    * Clarified public link for project in UI
+  
+  * Submitting forms using Enter key
+  * Shortcuts for KM Editor and Forking KM
+  * Clarified public link for project in UI
 
 .. _v2.13:
 
@@ -1023,9 +1088,10 @@ Changelog
 
 * *Release: 7 April 2021*
 * **Key changes:**
-    * Auto-reconnect in questionnaires (websockets)
-    * Fix text inputs in questionnaires when using Grammarly in browser
-    * Added actions directly to list views of knowledge models and templates
+  
+  * Auto-reconnect in questionnaires (websockets)
+  * Fix text inputs in questionnaires when using Grammarly in browser
+  * Added actions directly to list views of knowledge models and templates
 
 .. _v2.12:
 
@@ -1034,7 +1100,8 @@ Changelog
 
 * *Release: 12 March 2021*
 * **Key changes:**
-    * Questionnaire versioning (Version History)
+  
+  * Questionnaire versioning (Version History)
 
 .. _v2.11:
 
@@ -1043,8 +1110,9 @@ Changelog
 
 * *Release: February 2021*
 * **Key changes:**
-    * Add multiple choice question
-    * Show tags in the questionnaire
+  
+  * Add multiple choice question
+  * Show tags in the questionnaire
 
 .. _v2.10:
 
@@ -1053,7 +1121,8 @@ Changelog
 
 * *Release: January 2021*
 * **Key changes:**
-    * Possibility to add specific users to the questionnaire as collaborators
+  
+  * Possibility to add specific users to the questionnaire as collaborators
 
 .. _v2.9:
 
@@ -1062,8 +1131,9 @@ Changelog
 
 * *Release: 9 December 2020*
 * **Key changes:**
-    * Refactored error messages
-    * Several bugfixes
+  
+  * Refactored error messages
+  * Several bugfixes
 
 .. _v2.8.1-backend:
 
@@ -1072,11 +1142,12 @@ Changelog
 
 * *Release: 24 November 2020*
 * **Key changes:**
-    * Fix version ordering for KM package and templates
-    * Fix move question in questionnaire migration
-    * Filter out unsupported templates for select
-    * Fix available non-latest templates
-    * Clear default template after project migration
+  
+  * Fix version ordering for KM package and templates
+  * Fix move question in questionnaire migration
+  * Filter out unsupported templates for select
+  * Fix available non-latest templates
+  * Clear default template after project migration
 
 .. _v2.8:
 
@@ -1085,9 +1156,10 @@ Changelog
 
 * *Release: 3 November 2020*
 * **Key changes:**
-    * Pagination & sorting in table views
-    * Introduced DSW Template Development Kit
-    * Minor UX improvements
+  
+  * Pagination & sorting in table views
+  * Introduced DSW Template Development Kit
+  * Minor UX improvements
 
 .. _v2.7:
 
@@ -1096,8 +1168,9 @@ Changelog
 
 * *Release: 5 October 2020*
 * **Key changes:**
-    * Improved caching for speed optimization
-    * Reworked questionnaire detail
+  
+  * Improved caching for speed optimization
+  * Reworked questionnaire detail
 
 .. _v2.6:
 
@@ -1106,10 +1179,11 @@ Changelog
 
 * *Release: 9 September 2020*
 * **Key changes:**
-    * Added questionnaire live collaboration
-    * Introduced Projects to relate questionnaire, TODOs, documents, and settings
-    * Several UI/UX improvements
-    * Improved design of email templates
+ 
+  * Added questionnaire live collaboration
+  * Introduced Projects to relate questionnaire, TODOs, documents, and settings
+  * Several UI/UX improvements
+  * Improved design of email templates
 
 .. _v2.5:
 
@@ -1118,10 +1192,11 @@ Changelog
 
 * *Release: 8 July 2020*
 * **Key changes:**
-    * Added templates management
-    * Several UI/UX improvements
-    * Introduced backend workers for scheduled/async tasks
-    * Added option to disable questionnaire summary report
+  
+  * Added templates management
+  * Several UI/UX improvements
+  * Introduced backend workers for scheduled/async tasks
+  * Added option to disable questionnaire summary report
 
 .. _v2.4:
 
@@ -1130,10 +1205,11 @@ Changelog
 
 * *Release: 3 June 2020*
 * **Key changes:**
-    * Added RDF support step in document worker
-    * Improved default naming of new documents
-    * Minor UI/UX improvements
-    * Several bugfixes
+  
+  * Added RDF support step in document worker
+  * Improved default naming of new documents
+  * Minor UI/UX improvements
+  * Several bugfixes
 
 .. _v2.3:
 
@@ -1142,11 +1218,12 @@ Changelog
 
 * *Release: 6 May 2020*
 * **Key changes:**
-    * Enhanced backend logging for ELK
-    * Added document submission
-    * Improved integration with Registry for simpler Sign Up
-    * Added user avatars
-    * Several bugfixes and optimizations
+  
+  * Enhanced backend logging for ELK
+  * Added document submission
+  * Improved integration with Registry for simpler Sign Up
+  * Added user avatars
+  * Several bugfixes and optimizations
 
 .. _v2.2:
 
@@ -1155,12 +1232,13 @@ Changelog
 
 * *Release: 1 April 2020*
 * **Key changes:**
-    * Added support for OpenID
-    * Added affiliations in user profiles
-    * Introduced settings to change configurations directly in DSW interface
-    * Added API documentation using Swagger
-    * UI/UX improvements
-    * Several bugfixes and optimizations
+  
+  * Added support for OpenID
+  * Added affiliations in user profiles
+  * Introduced settings to change configurations directly in DSW interface
+  * Added API documentation using Swagger
+  * UI/UX improvements
+  * Several bugfixes and optimizations
 
 .. _v2.1:
 
@@ -1169,10 +1247,11 @@ Changelog
 
 * *Release: 3 March 2020*
 * **Key changes:**
-    * Introduced document worker for better scalability
-    * Migrated backend to new framework
-    * Added dropdown actions to list views
-    * Several bugfixes
+  
+  * Introduced document worker for better scalability
+  * Migrated backend to new framework
+  * Added dropdown actions to list views
+  * Several bugfixes
 
 .. _v2.0:
 
@@ -1181,12 +1260,13 @@ Changelog
 
 * *Release: 14 January 2020*
 * **Key changes:**
-    * Added move functionality for knowledge models
-    * Added possibility to assign template to KMs
-    * Added questionnaire cloning
-    * Added expand/collapse all in KM Editor
-    * Internal refactoring and structure enhancements
-    * Several bugfixes
+  
+  * Added move functionality for knowledge models
+  * Added possibility to assign template to KMs
+  * Added questionnaire cloning
+  * Added expand/collapse all in KM Editor
+  * Internal refactoring and structure enhancements
+  * Several bugfixes
 
 .. _v1.10.1-frontend:
 
@@ -1195,8 +1275,9 @@ Changelog
 
 * *Release: 18 September 2019*
 * **Key changes:**
-    * Knowledge Model Editor UI Fixes
-    * Mistyped parameter in DMP macro for indications
+  
+  * Knowledge Model Editor UI Fixes
+  * Mistyped parameter in DMP macro for indications
 
 .. _v1.10:
 
@@ -1206,21 +1287,22 @@ Changelog
 * *Release: 3 September 2019*
 * Hotfixes:
 * **Key changes:**
-    * Improving client caching
-    * Refactor KM to flat structure
-    * Add uuids in editor
-    * Add helpers for templates
-    * Followup questions missing in KM migration
-    * Localization
-    * Update MongoDB (4.0.12)
-    * Switch follow up questions and metrics in the editor
-    * Non-ascii characters do not work in the templates
-    * Remove itemTitle option
-    * Deleting an item in Integration headers doesn't indicate a change
-    * Problem with empty integration file
-    * Wrong padding for tag selection in preview in KM Editor
-    * Chapter text should not be required
-    * Use app title in default email template
+  
+  * Improving client caching
+  * Refactor KM to flat structure
+  * Add uuids in editor
+  * Add helpers for templates
+  * Followup questions missing in KM migration
+  * Localization
+  * Update MongoDB (4.0.12)
+  * Switch follow up questions and metrics in the editor
+  * Non-ascii characters do not work in the templates
+  * Remove itemTitle option
+  * Deleting an item in Integration headers doesn't indicate a change
+  * Problem with empty integration file
+  * Wrong padding for tag selection in preview in KM Editor
+  * Chapter text should not be required
+  * Use app title in default email template
 
 .. _v1.9.2-backend:
 
@@ -1229,7 +1311,8 @@ Changelog
 
 * *Release: 13 August 2019*
 * **Key changes:**
-    * Bad defaults for ADMIN role
+  
+  * Bad defaults for ADMIN role
 
 .. _v1.9.1-backend:
 
@@ -1238,7 +1321,8 @@ Changelog
 
 * *Release: 7 August 2019*
 * **Key changes:**
-    * Invalid serialization on Typehint endpoint
+  
+  * Invalid serialization on Typehint endpoint
 
 .. _v1.9:
 
@@ -1247,24 +1331,25 @@ Changelog
 
 * *Release: 30 June 2019*
 * **Key changes:**
-    * Migrate Questionnaires to new KM Model
-    * Add Licence to Registry
-    * Pre-fill last KM package version on deployment
-    * Non-desirable questions should not appear in the report
-    * Create tags integration tests
-    * Wrong computation of Outdated indication in Editor
-    * Questionnaire name in the default DMP template
-    * Extend DMP Template with information about used KM
-    * Custom links in menu
-    * Add flags to the questionnaire and questionnaire migration
-    * Questionnaire migration integration tests
-    * Timestamps for KMs & Questionnaires
-    * Allow to set up mail server without authentication
-    * "Save" and "Save and close" buttons for KM Editor
-    * Case insensitive order in client list views
-    * User not logged out when deleted
-    * Improve item question in read-only questionnaire
-    * Don't show metrics in summary report when no metrics are used
+  
+  * Migrate Questionnaires to new KM Model
+  * Add Licence to Registry
+  * Pre-fill last KM package version on deployment
+  * Non-desirable questions should not appear in the report
+  * Create tags integration tests
+  * Wrong computation of Outdated indication in Editor
+  * Questionnaire name in the default DMP template
+  * Extend DMP Template with information about used KM
+  * Custom links in menu
+  * Add flags to the questionnaire and questionnaire migration
+  * Questionnaire migration integration tests
+  * Timestamps for KMs & Questionnaires
+  * Allow to set up mail server without authentication
+  * "Save" and "Save and close" buttons for KM Editor
+  * Case insensitive order in client list views
+  * User not logged out when deleted
+  * Improve item question in read-only questionnaire
+  * Don't show metrics in summary report when no metrics are used
 
 .. _v1.8.1-frontend:
 
@@ -1273,7 +1358,8 @@ Changelog
 
 * *Release: 13 June 2019*
 * **Key changes:**
-    * Changing accessibility of questionnaire in create or edit form does not work in Safari
+  
+  * Changing accessibility of questionnaire in create or edit form does not work in Safari
 
 .. _v1.8:
 
@@ -1282,17 +1368,18 @@ Changelog
 
 * *Release: 13 June 2019*
 * **Key changes:**
-    * Dot notation for integration result objects
-    * Integration with BioTools
-    * Integration with Tess
-    * Create basic questionnaire integration tests
-    * Add support for markdown to KM descriptions
-    * Integrate Registry into DSW project
-    * Option for turning off Questionnaire Accessibility
-    * Add privacy URL to the client configuration
-    * Fix metamodel migration
-    * Wrong logo position in exported PDF DMP
-    * Integration props not visible in editor before saving
+  
+  * Dot notation for integration result objects
+  * Integration with BioTools
+  * Integration with Tess
+  * Create basic questionnaire integration tests
+  * Add support for markdown to KM descriptions
+  * Integrate Registry into DSW project
+  * Option for turning off Questionnaire Accessibility
+  * Add privacy URL to the client configuration
+  * Fix metamodel migration
+  * Wrong logo position in exported PDF DMP
+  * Integration props not visible in editor before saving
 
 .. _v1.7:
 
@@ -1301,17 +1388,18 @@ Changelog
 
 * *Release: 16 May 2019*
 * **Key changes:**
-    * Create a Dashboard
-    * Item Title in List of Items should go away
-    * Summary Report Optimalization
-    * Dynamically configurable client
-    * Configurable phases
-    * Read only questionnaire
-    * Useless feedback button next to item name input
-    * Support table actions for touch screens
-    * Wrong height of Editor Preview window
-    * Inconsistent error page
-    * Wrong text at empty Knowledge Models empty state
+  
+  * Create a Dashboard
+  * Item Title in List of Items should go away
+  * Summary Report Optimalization
+  * Dynamically configurable client
+  * Configurable phases
+  * Read only questionnaire
+  * Useless feedback button next to item name input
+  * Support table actions for touch screens
+  * Wrong height of Editor Preview window
+  * Inconsistent error page
+  * Wrong text at empty Knowledge Models empty state
 
 .. _v1.6:
 
@@ -1320,18 +1408,19 @@ Changelog
 
 * *Release: 7 May 2019*
 * **Key changes:**
-    * Multiple server-side configurable DMP templates
-    * Automatic metamodel migrations
-    * Change visibility of questionnaire doesn't work
-    * Typehints
-    * DSW-Server build in Travis review & speedup
-    * Email inline images compatibility
-    * Test editing entities in KM Editor
-    * Test Organization module
-    * Test Users module
-    * Configurable application title
-    * Configurable messages on welcome screen
-    * Old "Report Issue" GitHub link
+  
+  * Multiple server-side configurable DMP templates
+  * Automatic metamodel migrations
+  * Change visibility of questionnaire doesn't work
+  * Typehints
+  * DSW-Server build in Travis review & speedup
+  * Email inline images compatibility
+  * Test editing entities in KM Editor
+  * Test Organization module
+  * Test Users module
+  * Configurable application title
+  * Configurable messages on welcome screen
+  * Old "Report Issue" GitHub link
 
 .. _v1.5:
 
@@ -1340,21 +1429,22 @@ Changelog
 
 * *Release: 9 April 2019*
 * **Key changes:**
-    * Dynamically computed identifier in Questionnaire and DMP
-    * Brand client application
-    * Questionnaire - chapter list should not scroll with the content
-    * Guide user to be more FAIR
-    * Indication of not complete questions
-    * Upgrade elm/http package
-    * Actions when mailer fails to send email
-    * Change name and visibility of a questionnaire
-    * Make RabbitMQ optional
-    * Improve table actions
-    * Graphical visualization of report
-    * Use configuration file for API URL
-    * Reverse-order of Package version list
-    * Buttons in package detail versions are too close to text
-    * Rename modules and URLs according to the new terminology
+  
+  * Dynamically computed identifier in Questionnaire and DMP
+  * Brand client application
+  * Questionnaire - chapter list should not scroll with the content
+  * Guide user to be more FAIR
+  * Indication of not complete questions
+  * Upgrade elm/http package
+  * Actions when mailer fails to send email
+  * Change name and visibility of a questionnaire
+  * Make RabbitMQ optional
+  * Improve table actions
+  * Graphical visualization of report
+  * Use configuration file for API URL
+  * Reverse-order of Package version list
+  * Buttons in package detail versions are too close to text
+  * Rename modules and URLs according to the new terminology
 
 .. _v1.4:
 
@@ -1363,17 +1453,18 @@ Changelog
 
 * *Release: 10 March 2019*
 * **Key changes:**
-    * Add tags to KM Editor
-    * Use tags when creating Questionnaire
-    * Knowledge Model cannot be saved when a type of reference is changed
-    * Email templates
-    * KM Tags Editor view (table)
-    * Merge KM Editor & KM Tags Editor into a single view
-    * Questionnaire preview in KM Editor
-    * Rename Ids to Uuids in entity properties
-    * Add version to KM package
-    * Refactor question entity structure
-    * Mail config options parsed even when disabled
+  
+  * Add tags to KM Editor
+  * Use tags when creating Questionnaire
+  * Knowledge Model cannot be saved when a type of reference is changed
+  * Email templates
+  * KM Tags Editor view (table)
+  * Merge KM Editor & KM Tags Editor into a single view
+  * Questionnaire preview in KM Editor
+  * Rename Ids to Uuids in entity properties
+  * Add version to KM package
+  * Refactor question entity structure
+  * Mail config options parsed even when disabled
 
 .. _v1.3:
 
@@ -1382,10 +1473,11 @@ Changelog
 
 * *Release: 10 February 2019*
 * **Key changes:**
-    * Email should be case insensitive in login form
-    * Allow SSL in server's internal SMTP mailer
-    * Editable DMP template and style (through static HTML file on server)
-    * Include metadata into DMP template
+  
+  * Email should be case insensitive in login form
+  * Allow SSL in server's internal SMTP mailer
+  * Editable DMP template and style (through static HTML file on server)
+  * Include metadata into DMP template
 
 .. _v1.2.1-backend:
 
@@ -1394,7 +1486,8 @@ Changelog
 
 * *Release: 14 January 2019*
 * **Key changes:**
-    * Distinguish between DB and KM migrations
+  
+  * Distinguish between DB and KM migrations
 
 .. _v1.2:
 
@@ -1403,12 +1496,13 @@ Changelog
 
 * *Release: 13 January 2019*
 * **Key changes:**
-    * Update questionnaire replies structure
-    * Editor should open an alert when leaving unsaved knowledge model
-    * Retry connect to MongoDB, RabbitMQ when starting the server
-    * Split user menu
-    * Allow to export and import more KM packages at once
-    * Fix user delete modal email overflow
+
+  * Update questionnaire replies structure
+  * Editor should open an alert when leaving unsaved knowledge model
+  * Retry connect to MongoDB, RabbitMQ when starting the server
+  * Split user menu
+  * Allow to export and import more KM packages at once
+  * Fix user delete modal email overflow
 
 .. _v1.1:
 
@@ -1417,22 +1511,23 @@ Changelog
 
 * *Release: 16 December 2018*
 * **Key changes:**
-    * Bug in KM Editor: Item Title does not change
-    * Add endpoint for uploading KMPs
-    * Convert all book references from HTML to Markdown
-    * Add new logo to the client
-    * Summary report doesn't work as expected
-    * After the questionnaire is created, user should be redirect to the questionnaire
-    * Save which user has created a Knowledge Model
-    * Data Steward should be able to export and import KM packages
-    * DS Planner List - display whether the questionnaire is public or private
-    * Data Steward and Researcher can't edit / delete other public questionnaires
-    * RabbitMQ
-    * Unify the terminology
-    * Questionnaire - Phase Select - it breaks to multiple lines on smaller screens
-    * Save which user has created Questionnaire
-    * Table actions should have unbreakable space if the action name has more words
-    * Create Favicon
+  
+  * Bug in KM Editor: Item Title does not change
+  * Add endpoint for uploading KMPs
+  * Convert all book references from HTML to Markdown
+  * Add new logo to the client
+  * Summary report doesn't work as expected
+  * After the questionnaire is created, user should be redirect to the questionnaire
+  * Save which user has created a Knowledge Model
+  * Data Steward should be able to export and import KM packages
+  * DS Planner List - display whether the questionnaire is public or private
+  * Data Steward and Researcher can't edit / delete other public questionnaires
+  * RabbitMQ
+  * Unify the terminology
+  * Questionnaire - Phase Select - it breaks to multiple lines on smaller screens
+  * Save which user has created Questionnaire
+  * Table actions should have unbreakable space if the action name has more words
+  * Create Favicon
 
 .. _v1.0:
 
