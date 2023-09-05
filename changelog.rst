@@ -1,6 +1,29 @@
 Changelog
 *********
 
+.. _v3.27:
+
+3.27
+====
+
+* *Release: 5 September 2023*
+
+* **Features:**
+
+  * Added notification emails about newly created and expiring API keys.
+  * Added explicit info when there are no questions in an item.
+
+* **Bugfixes:**
+
+  * Fixed filters on list views when changing filters while items are loading.
+  * Fixed project tags filter when removing last tag.
+  * Fixed Life Science Login badge.
+
+* **Miscs:**
+
+  * Removed credentials authentication from TDK, API keys should be used instead.
+
+
 .. _v3.26.1-tools:
 
 3.26.1 (tools)
