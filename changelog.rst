@@ -1,6 +1,18 @@
 Changelog
 *********
 
+.. _v3.27.1-frontend:
+
+3.27.1 (fronted)
+================
+
+* *Release: 7 September 2023*
+
+* **Security:**
+
+  * Fixed CVE-2023-32559 and CVE-2023-32002
+
+
 .. _v3.27:
 
 3.27
