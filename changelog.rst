@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v3.27.1-tools:
+
+3.27.1 (tools)
+==============
+
+* *Release: 20 September 2023*
+
+* **Bugfixes:**
+
+  * Fix detection of PDF output document format.
+
 
 .. _v3.27.1-backend:
 
@@ -49,6 +60,18 @@ Changelog
   * Removed credentials authentication from TDK, API keys should be used instead.
 
 
+.. _v3.26.2-tools:
+
+3.26.2 (tools)
+==============
+
+* *Release: 20 September 2023*
+
+* **Bugfixes:**
+
+  * Fix detection of PDF output document format.
+
+
 .. _v3.26.1-backend:
 
 3.26.1 (backend)
@@ -72,6 +95,7 @@ Changelog
 
   * Fixed loading custom mail config in mailer.
 
+
 .. _v3.26.1-frontend:
 
 3.26.1 (frontend)
@@ -82,6 +106,7 @@ Changelog
 * **Bugfixes:**
 
   * Fixed the knowledge model filter on the project list.
+
 
 .. _v3.26:
 
