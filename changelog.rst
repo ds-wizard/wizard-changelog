@@ -1,6 +1,19 @@
 Changelog
 *********
 
+
+.. _v3.27.1-backend:
+
+3.27.1 (backend)
+================
+
+* *Release: 20 September 2023*
+
+* **Bugfixes:**
+
+  * Fixed document template formats that didn't work under certain conditions.
+
+
 .. _v3.27.1-frontend:
 
 3.27.1 (fronted)
@@ -10,7 +23,7 @@ Changelog
 
 * **Security:**
 
-  * Fixed CVE-2023-32559 and CVE-2023-32002
+  * Fixed CVE-2023-32559 and CVE-2023-32002.
 
 
 .. _v3.27:
@@ -34,6 +47,18 @@ Changelog
 * **Miscs:**
 
   * Removed credentials authentication from TDK, API keys should be used instead.
+
+
+.. _v3.26.1-backend:
+
+3.26.1 (backend)
+================
+
+* *Release: 20 September 2023*
+
+* **Bugfixes:**
+
+  * Fixed document template formats that didn't work under certain conditions.
 
 
 .. _v3.26.1-tools:
