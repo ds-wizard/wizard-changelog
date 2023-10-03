@@ -2,6 +2,35 @@ Changelog
 *********
 
 
+.. _v3.28:
+
+3.28
+====
+
+* *Release: 3 October 2023*
+
+* **Features:**
+
+  * Added a button to add another sibling entity in the navigation tree in the knowledge model editor.
+  * Question tags are now preselected when creating a project migration if they were used in the original project.
+  * Error is now shown in the user create form when the email is already used.
+  * Added support for more fonts in PDF documents.
+  * Improve the performance of knowledge model editors and projects.
+
+* **Bugfixes:**
+
+  * Fixed selecting of knowledge model on project creation after the selected knowledge model was removed.
+  * Fixed user filter on the project list after unselecting a user and selecting another one.
+  * Fixed preview of files with incompatible character encoding.
+  * Fixed questionnaire navigation tree showing non-desirable questions when they should be hidden.
+  * Fixed minor issues in document template selection when creating a new document.
+  * Fixed integration in KM editor showing deleted questions are used.
+
+* **Misc:**
+
+  * Changed the default user role from data steward to researcher when a new wizard instance is started.
+
+
 .. _v3.27.1-tools:
 
 3.27.1 (tools)
