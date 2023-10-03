@@ -19,6 +19,21 @@ For building the changelog, please run the following from the root of the projec
 $ make build
 ```
 
+### Add new version
+
+There is a helper script to create a new version template in the file (the component is optional, used for hotfixes):
+
+```bash
+$ python scripts/version.py <version> (<component>)
+```
+
+For example:
+
+```bash
+$ python scripts/version.py 3.27
+$ python scripts/version.py 3.27.1 backend
+```
+
 ## License
 
 This project is licensed under the Apache License v2.0 - see the [LICENSE](LICENSE) file for more details.
