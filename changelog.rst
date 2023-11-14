@@ -2,6 +2,18 @@ Changelog
 *********
 
 
+.. _v4.0.1-backend:
+
+4.0.1 (backend)
+===============
+
+* *Release: 14 November 2023*
+
+* **Bugfixes:**
+
+  * Fixed duplicate documents in document lists.
+
+
 .. _v4.0.1-frontend:
 
 4.0.1 (frontend)
