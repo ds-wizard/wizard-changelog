@@ -2,6 +2,23 @@ Changelog
 *********
 
 
+.. _v4.0.1-frontend:
+
+4.0.1 (frontend)
+================
+
+* *Release: 14 November 2023*
+
+* **Bugfixes:**
+
+  * Fixed OpenID login buttons.
+  * Fixed favicon.
+
+* **Misc:**
+
+  * Removed style version from about dialog (as it is no longer used since 4.0).
+
+
 .. _v4.0:
 
 4.0
