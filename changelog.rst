@@ -2,6 +2,28 @@ Changelog
 *********
 
 
+.. _v4.0:
+
+4.0
+===
+
+* *Release: 13 November 2023*
+
+* **Features:**
+
+  * Introduced nested routes, client now runs on ``/wizard`` and server on ``/wizard-api``, so that both can run on single subdomain.
+  * SASS was removed from the client image, and styling options have been reworked.
+  * Integration response is now shown as plain text in the questionnaire version history, so the raw Markdown code is not visible there.
+  * Added focus to the first input field when adding a new or opening an existing entity in the KM editor.
+
+* **Bugfixes:**
+
+  * Fixed non-desirable follow-up questions in questionnaires so there is no empty box.
+  * Fixed warnings for deleted entities in the KM editor.
+  * Fixed watch mode termination in TDK in some cases.
+  * Fixed creating templates with brackets in name in TDK.
+
+
 .. _v3.28:
 
 3.28
