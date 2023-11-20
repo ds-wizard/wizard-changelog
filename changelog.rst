@@ -2,6 +2,19 @@ Changelog
 *********
 
 
+.. _v4.0.2-frontend:
+
+4.0.2 (frontend)
+================
+
+* *Release: 20 November 2023*
+
+* **Bugfixes:**
+
+  * Fixed links to other apps.
+  * Fixed clearing tokens after logout.
+
+
 .. _v4.0.1-backend:
 
 4.0.1 (backend)
