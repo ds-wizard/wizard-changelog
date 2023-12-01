@@ -2,6 +2,16 @@ Changelog
 *********
 
 
+.. _v4.0.3-frontend:
+
+4.0.3 (frontend)
+================
+
+* *Release: 1 December 2023*
+
+* No visible changes to users.
+
+
 .. _v4.0.2-frontend:
 
 4.0.2 (frontend)
