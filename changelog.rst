@@ -2,6 +2,28 @@ Changelog
 *********
 
 
+.. _v4.1:
+
+4.1
+===
+
+* *Release: 5 December 2023*
+
+* **Features:**
+
+  * Added project actions and created new `integration SDK <https://github.com/ds-wizard/dsw-integration-sdk>`__ for that and other existing integrations.
+
+* **Bugfixes:**
+
+  * Fixed primary color that didn't work correctly on some elements after 4.0 rework.
+  * Fixed Jinja2 template error reporting when generating documents.
+  * Fixed pagination after deleting last items in listings.
+
+* **Misc:**
+
+  * Unified UID and GID in Docker images.
+
+
 .. _v4.0.3-frontend:
 
 4.0.3 (frontend)
