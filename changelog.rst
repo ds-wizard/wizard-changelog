@@ -2,6 +2,18 @@ Changelog
 *********
 
 
+.. _v4.1.1-backend:
+
+4.1.1 (backend)
+===============
+
+* *Release: 11 December 2023*
+
+* **Bugfixes:**
+
+  * Fixed upgrading the Document Template metamodel version for Document Template Editors.
+
+
 .. _v4.1:
 
 4.1
