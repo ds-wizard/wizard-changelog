@@ -2,6 +2,18 @@ Changelog
 *********
 
 
+.. _v4.1.1-tools:
+
+4.1.1 (tools)
+=============
+
+* *Release: 12 December 2023*
+
+* **Bugfixes:**
+
+  * Fixed retry mechanism for command queue used in workers.
+
+
 .. _v4.1.1-backend:
 
 4.1.1 (backend)
@@ -34,6 +46,18 @@ Changelog
 * **Misc:**
 
   * Unified UID and GID in Docker images.
+
+
+.. _v4.0.1-tools:
+
+4.0.1 (tools)
+=============
+
+* *Release: 12 December 2023*
+
+* **Bugfixes:**
+
+  * Fixed retry mechanism for command queue used in workers.
 
 
 .. _v4.0.3-frontend:
