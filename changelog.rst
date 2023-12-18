@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.1.1-frontend:
+
+4.1.1 (frontend)
+================
+
+* *Release: 18 December 2023*
+
+* **Bugfixes:**
+
+  * Fixed links to questions in questionnaires.
+
 
 .. _v4.1.1-tools:
 
