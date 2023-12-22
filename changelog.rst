@@ -1,6 +1,20 @@
 Changelog
 *********
 
+.. _v4.2:
+
+4.2
+===
+
+* *Planned Release: 2 January 2024*
+
+* **Bugfixes:**
+
+  * Fixed unset project from document template editor preview on deletion of project.
+  * Fixed knowledge model editor buttons position for small screens.
+  * Fixed not unfolding project actions menu.
+  * Fixed wrong link to SDK in widget integration URL description.
+
 .. _v4.1.1-frontend:
 
 4.1.1 (frontend)
