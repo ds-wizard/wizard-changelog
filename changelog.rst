@@ -6,7 +6,7 @@ Changelog
 4.2
 ===
 
-* *Planned Release: 2 January 2024*
+* *Release: 2 January 2024*
 
 * **Bugfixes:**
 
