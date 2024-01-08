@@ -1,6 +1,20 @@
 Changelog
 *********
 
+
+.. _v4.2.1-tools:
+
+4.2.1 (tools)
+=============
+
+* *Release: 8 January 2024*
+
+* **Security:**
+
+  * Use Jinja2 sandboxed environment for document generation.
+  * Fixed CVE-2023-7104.
+
+
 .. _v4.2:
 
 4.2
@@ -25,6 +39,19 @@ Changelog
 * **Bugfixes:**
 
   * Fixed links to questions in questionnaires.
+
+
+.. _v4.1.2-tools:
+
+4.1.2 (tools)
+=============
+
+* *Release: 8 January 2024*
+
+* **Security:**
+
+  * Use Jinja2 sandboxed environment for document generation.
+  * Fixed CVE-2023-7104.
 
 
 .. _v4.1.1-tools:
