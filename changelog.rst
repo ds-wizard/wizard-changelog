@@ -2,6 +2,18 @@ Changelog
 *********
 
 
+.. _v4.2.2-backend:
+
+4.2.2 (backend)
+===============
+
+* *Release: 24 January 2024*
+
+* **Bugfixes:**
+
+  * Fix project typehints for anonymous users
+
+
 .. _v4.2.1-backend:
 
 4.2.1 (backend)
