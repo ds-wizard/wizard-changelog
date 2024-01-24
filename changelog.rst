@@ -2,6 +2,18 @@ Changelog
 *********
 
 
+.. _v4.2.1-backend:
+
+4.2.1 (backend)
+===============
+
+* *Release: 24 January 2024*
+
+* **Bugfixes:**
+
+  * Fix cleaning temporary-generated documents
+
+
 .. _v4.2.1-tools:
 
 4.2.1 (tools)
