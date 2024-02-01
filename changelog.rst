@@ -22,6 +22,17 @@ Changelog
 4.2.2 (backend)
 ===============
 
+* *Release: 1 February 2024*
+
+* **Bugfixes:**
+
+  * Fix wrongly shown project tags
+
+.. _v4.2.2-frontend:
+
+4.2.1 (frontend)
+================
+
 * *Release: 24 January 2024*
 
 * **Bugfixes:**
