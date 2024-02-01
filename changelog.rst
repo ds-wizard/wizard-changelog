@@ -1,6 +1,21 @@
 Changelog
 *********
 
+.. _v4.3:
+
+4.3
+===
+
+* *Release: 6 February 2024*
+
+* **Bugfixes:**
+
+  * Add information who created the feedback to GitHub issue
+  * Fixed special characters coding in machine actionable formats
+  * Fixed error message for forgotten password
+  * Fixed importing outdated document templates from registry if unsupported metamodel
+  * Fix TDK watch mode errors after descriptor change
+  * Fix typehints for public projects
 
 .. _v4.2.2-backend:
 
@@ -12,7 +27,6 @@ Changelog
 * **Bugfixes:**
 
   * Fix project typehints for anonymous users
-
 
 .. _v4.2.1-backend:
 
