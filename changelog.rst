@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.3.1-tools:
+
+4.3.1 (tools)
+=============
+
+* *Release: 21 February 2024*
+
+* **Bugfixes:**
+
+  * Fix getting config in mailer for Registry
+
 .. _v4.3:
 
 4.3
