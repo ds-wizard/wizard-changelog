@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.3.1-backend:
+
+4.3.1 (backend)
+===============
+
+* *Release: 26 February 2024*
+
+* **Bugfixes:**
+
+  * Fix "switching app" menu
+
 .. _v4.3.1-tools:
 
 4.3.1 (tools)
