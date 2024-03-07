@@ -10,17 +10,15 @@ Changelog
 
 * **Features:**
 
-  * Improved project creation form
   * Added create project from template from projects list dropdown menu
-  * Improved move functionality in knowledge model editor
+  * Improved project creation form
+  * Improved move functionality in knowledge model editor with highlighting item that is being moved
   * Adjusted color of non-desirable questions
 
 * **Bugfixes:**
 
-  * Fixed compilation of knowledge model when sometimes the question disappear after knowledge model release
-  * Fixed downloading documents from read-only sharing projects
+  * Fixed downloading documents from read-only sharing projects would not work
   * Fixed migrationg project would not change "updated at" value
-
 
 .. _v4.3.1-backend:
 
@@ -51,12 +49,15 @@ Changelog
 
 * *Release: 6 February 2024*
 
+* **Features:**
+
+  * Added posibilty to import document templates from registry if unsupported metamodel using update badge
+  * Added information who created the feedback to GitHub issue
+
 * **Bugfixes:**
 
-  * Added information who created the feedback to GitHub issue
-  * Fixed special characters coding in machine actionable formats
-  * Fixed error message for forgotten password
-  * Fixed importing outdated document templates from registry if unsupported metamodel
+  * Fixed wrong special characters coding in machine actionable formats
+  * Fixed unclear error message for forgotten password
   * Fixed TDK watch mode errors after descriptor change
   * Fixed typehints for public projects
 
