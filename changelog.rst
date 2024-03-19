@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.4.1-tools:
+
+4.4.1 (tools)
+=============
+
+* *Release: 19 March 2024*
+
+* **Bugfixes:**
+
+  * Fix color handling in mailer
+
 .. _v4.4:
 
 4.4
@@ -19,6 +30,17 @@ Changelog
 
   * Fixed downloading documents from read-only sharing projects would not work
   * Fixed migrationg project would not change "updated at" value
+
+.. _v4.3.2-tools:
+
+4.3.2 (tools)
+=============
+
+* *Release: 19 March 2024*
+
+* **Bugfixes:**
+
+  * Fix color handling in mailer
 
 .. _v4.3.1-backend:
 
