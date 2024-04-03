@@ -1,6 +1,23 @@
 Changelog
 *********
 
+.. _v4.5:
+
+4.5
+===
+
+* *Release: 2 April 2024*
+
+* **Features:**
+
+  * Added hide option in secrets settings
+  * Added consistent spacing for settings items
+  * Improved selected tags in project settings to clarify which tags are selected
+
+* **Bugfixes:**
+
+  * Fixed problem that URL input would not be recognized as UTL in textbox fields in forms
+
 .. _v4.4.1-tools:
 
 4.4.1 (tools)
