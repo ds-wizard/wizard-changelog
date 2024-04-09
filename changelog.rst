@@ -16,7 +16,7 @@ Changelog
 .. _v4.5.2-frontend:
 
 4.5.2 (frontend)
-===============
+================
 
 * *Release: 8 April 2024*
 
@@ -27,7 +27,7 @@ Changelog
 .. _v4.5.1-frontend:
 
 4.5.1 (frontend)
-===============
+================
 
 * *Release: 5 April 2024*
 
@@ -408,7 +408,7 @@ Changelog
 .. _v3.27.1-frontend:
 
 3.27.1 (frontend)
-================
+=================
 
 * *Release: 7 September 2023*
 
