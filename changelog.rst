@@ -1,6 +1,18 @@
 Changelog
 *********
 
+.. _v4.5.1-backend:
+
+4.5.1 (backend)
+===============
+
+* *Release: 9 April 2024*
+
+* **Bugfixes**
+
+  * No visible changes to users
+
+
 .. _v4.5.2-frontend:
 
 4.5.2 (fronted)
