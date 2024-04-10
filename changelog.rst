@@ -50,7 +50,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fixed problem that URL input would not be recognized as UTL in textbox fields in forms
+  * Fixed problem that URL input would not be recognized as URL in textbox fields in forms
 
 .. _v4.4.1-tools:
 
