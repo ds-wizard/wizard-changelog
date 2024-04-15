@@ -1,6 +1,18 @@
 Changelog
 *********
 
+.. _v4.5.2-backend:
+
+4.5.2 (backend)
+===============
+
+* *Release: 15 April 2024*
+
+* **Bugfixes**
+
+  * Fix bottleneck in metric and indication computations
+
+
 .. _v4.5.1-backend:
 
 4.5.1 (backend)
@@ -51,6 +63,19 @@ Changelog
 * **Bugfixes:**
 
   * Fixed problem that URL input would not be recognized as URL in textbox fields in forms
+
+
+.. _v4.4.1-backend:
+
+4.4.1 (backend)
+===============
+
+* *Release: 15 April 2024*
+
+* **Bugfixes**
+
+  * Fix bottleneck in metric and indication computations
+
 
 .. _v4.4.1-tools:
 
