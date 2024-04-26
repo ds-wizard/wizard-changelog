@@ -105,7 +105,7 @@ Changelog
 * **Bugfixes:**
 
   * Fixed downloading documents from read-only sharing projects would not work
-  * Fixed migrationg project would not change "updated at" value
+  * Fixed migrating project would not change "updated at" value
 
 .. _v4.3.2-tools:
 
@@ -149,7 +149,7 @@ Changelog
 
 * **Features:**
 
-  * Added posibilty to import document templates from registry if unsupported metamodel using update badge
+  * Added possibility to import document templates from registry if unsupported metamodel using update badge
   * Added information who created the feedback to GitHub issue
 
 * **Bugfixes:**
@@ -609,7 +609,7 @@ Changelog
 * **Features:**
 
   * Added revoke all to `active sessions <https://guide.ds-wizard.org/en/3.25/application/profile/edit/active-sessions.html>`__.
-  * Added Terms of Service and/or Privacy agreement confirmation during SSO signup when they are set.
+  * Added Terms of Service and/or Privacy agreement confirmation during SSO sign up when they are set.
   * `Preview in KM Editor <https://guide.ds-wizard.org/en/3.25/application/knowledge-models/editors/detail/preview.html#km-editor-preview>`__ now opens on current question (corresponding answers are pre-selected if the question is nested).
   * Improved `phase selection <https://guide.ds-wizard.org/en/3.25/application/projects/list/detail/questionnaire.html#questionnaire-current-phase>`__ in questionnaire and phase description is now used.
   * Improved question tags selection when `creating a new project <https://guide.ds-wizard.org/en/3.25/application/projects/list/create.html#create-project-custom>`__ to make it more clear which questions will be used.
@@ -1775,7 +1775,6 @@ Changelog
 ====
 
 * *Release: 3 September 2019*
-* Hotfixes:
 * **Key changes:**
   
   * Improving client caching
@@ -1819,11 +1818,11 @@ Changelog
 1.9
 ===
 
-* *Release: 30 June 2019*
+* *Release: 30 June 2019*xww
 * **Key changes:**
   
   * Migrate Questionnaires to new KM Model
-  * Add Licence to Registry
+  * Add License to Registry
   * Pre-fill last KM package version on deployment
   * Non-desirable questions should not appear in the report
   * Create tags integration tests
@@ -1881,7 +1880,7 @@ Changelog
   
   * Create a Dashboard
   * Item Title in List of Items should go away
-  * Summary Report Optimalization
+  * Summary Report Optimization
   * Dynamically configurable client
   * Configurable phases
   * Read only questionnaire
