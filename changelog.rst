@@ -1,6 +1,31 @@
 Changelog
 *********
 
+.. _v4.6:
+
+4.6
+===
+
+* *Release: 10 May 2024*
+
+* **Features:**
+
+  * Added information to Project Settings that the Project Template has to be shared with others in order to be visible
+  * Reworked cancel buttons in create forms
+
+* **Bugfixes**
+
+  * Fixed some parts of Project were not accessible when Project was shared with a public link in edit mode
+  * Fixed comments in threads in Projects had random order
+  * Fixed routing after clicking on Cancel in several Create forms
+  * Fixed redirect after log in from public questionnaire
+  * Fixed Markdown newlines using \ would not render correctly in Document
+  * Fixed delete buttons in Submission Service settings would submit the whole form
+  * Fixed Submission Settings had Save button even when there was no change
+  * Fixed create new Document Template form would suggest a wrong version number
+  * Fixed some menu items were only partially clickable
+  * Fixed rare wrong rendering of icons
+
 .. _v4.5.2-backend:
 
 4.5.2 (backend)
@@ -10,8 +35,7 @@ Changelog
 
 * **Bugfixes**
 
-  * Fix bottleneck in metric and indication computations
-
+  * Fixed bottleneck in metric and indication computations
 
 .. _v4.5.1-backend:
 
@@ -23,7 +47,6 @@ Changelog
 * **Bugfixes**
 
   * No visible changes to users
-
 
 .. _v4.5.2-frontend:
 
@@ -64,7 +87,6 @@ Changelog
 
   * Fixed problem that URL input would not be recognized as URL in textbox fields in forms
 
-
 .. _v4.4.1-backend:
 
 4.4.1 (backend)
@@ -74,8 +96,7 @@ Changelog
 
 * **Bugfixes**
 
-  * Fix bottleneck in metric and indication computations
-
+  * Fixed bottleneck in metric and indication computations
 
 .. _v4.4.1-tools:
 
@@ -86,7 +107,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fix color handling in mailer
+  * Fixed color handling in mailer
 
 .. _v4.4:
 
@@ -116,7 +137,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fix color handling in mailer
+  * Fixed color handling in mailer
 
 .. _v4.3.1-backend:
 
@@ -127,7 +148,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fix "switching app" menu
+  * No visible changes to users
 
 .. _v4.3.1-tools:
 
@@ -138,7 +159,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fix getting config in mailer for Registry
+  * Fixed getting config in mailer for Registry
 
 .. _v4.3:
 
