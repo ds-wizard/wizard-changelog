@@ -6,7 +6,7 @@ Changelog
 4.6
 ===
 
-* *Release: 10 May 2024*
+* *Release: 7 May 2024*
 
 * **Features:**
 
