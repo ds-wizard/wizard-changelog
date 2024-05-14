@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.6.1:
+
+4.6.1 (frontend)
+================
+
+* *Release: 14 May 2024*
+
+* **Bugfixes**
+
+  * Fixed link to the DSW Registry from Document Template Import
+
 .. _v4.6:
 
 4.6
@@ -47,6 +58,17 @@ Changelog
 * **Bugfixes**
 
   * No visible changes to users
+
+.. _v4.5.3-frontend:
+
+4.5.3 (frontend)
+================
+
+* *Release: 14 May 2024*
+
+* **Bugfixes**
+
+  * Fixed link to the DSW Registry from Document Template Import
 
 .. _v4.5.2-frontend:
 
