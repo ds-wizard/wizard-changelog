@@ -3,7 +3,7 @@ Changelog
 
 .. _v4.6.2-frontend:
 
-4.6.1 (frontend)
+4.6.2 (frontend)
 ================
 
 * *Release: 22 May 2024*
