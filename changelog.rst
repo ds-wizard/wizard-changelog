@@ -1,7 +1,19 @@
 Changelog
 *********
 
-.. _v4.6.1:
+.. _v4.6.2-frontend:
+
+4.6.1 (frontend)
+================
+
+* *Release: 22 May 2024*
+
+* **Bugfixes**
+
+  * Fixed configurable Registry title
+  * Fixed links to book references
+
+.. _v4.6.1-frontend:
 
 4.6.1 (frontend)
 ================
@@ -58,6 +70,18 @@ Changelog
 * **Bugfixes**
 
   * No visible changes to users
+
+.. _v4.5.4-frontend:
+
+4.5.4 (frontend)
+================
+
+* *Release: 22 May 2024*
+
+* **Bugfixes**
+
+  * Fixed configurable Registry title
+  * Fixed links to book references
 
 .. _v4.5.3-frontend:
 
