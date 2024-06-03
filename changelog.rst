@@ -1,6 +1,26 @@
 Changelog
 *********
 
+.. _v4.7:
+
+4.7
+===
+
+* *Release: 5 June 2024*
+
+* **Features:**
+
+  * Added collapse all items within a List of Items questions in Questionnaire
+
+* **Bugfixes:**
+
+  * Fixed link to Registry from Knowledge Model import
+  * Fixed AND button in Projects list filter of users would do nothing
+
+* **Misc:**
+
+  * Unified visual styles of TODOs and Comments in Questionnaire
+
 .. _v4.6.2-frontend:
 
 4.6.2 (frontend)
