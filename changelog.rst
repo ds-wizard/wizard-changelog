@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.7.1:
+
+4.7.1 (backend)
+===============
+
+* *Release: 26 June 2024*
+
+* **Bugfixes:**
+
+  * Fixed synchronization of default role
+
 .. _v4.7:
 
 4.7
@@ -20,6 +31,17 @@ Changelog
 * **Misc:**
 
   * Unified visual styles of TODOs and Comments in Questionnaire
+
+.. _v4.6.1:
+
+4.6.1 (backend)
+===============
+
+* *Release: 26 June 2024*
+
+* **Bugfixes:**
+
+  * Fixed synchronization of default role
 
 .. _v4.6.2-frontend:
 
