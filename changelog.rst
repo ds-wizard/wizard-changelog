@@ -22,6 +22,7 @@ Changelog
   * Fixed Project would disconnect when closed and reopened too fast
   * Fixed deleting a Project would not be possible if the user was not the owner but had deletion rights
   * Fixed metamodel version label in Registry
+  * Fixed revoking all active sessions would delete all App and API keys
 
 * **Misc:**
 
