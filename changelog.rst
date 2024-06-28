@@ -1,6 +1,32 @@
 Changelog
 *********
 
+.. _v4.8:
+
+4.8
+===
+
+* *Release: 2 July 2024*
+
+* **Features:**
+
+  * Added collapse for follow-up questions in Questionnaire
+  * Added information on which Document Template was used to create a Document to Documents List
+  * Added scroll to newly added Item in List of Items question in a Questionnaire an item in the questionnaire, enhancing clarity by scrolling to newly added item
+  * Improved loading of Project Detail
+  * Improved error message when using wrong ID/token in Registry
+  * Reworked Share modal in Project Detail improving handling of Project link
+
+* **Bugfixes:**
+
+  * Fixed Project would disconnect when closed and reopened too fast
+  * Fixed deleting a Project would not be possible if the user was not the owner but had deletion rights
+  * Fixed metamodel version label in Registry
+
+* **Misc:**
+
+  * Upgraded Font Awesome used for icons to version 6
+
 .. _v4.7.1:
 
 4.7.1 (backend)
