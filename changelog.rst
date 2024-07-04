@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.8.1-tools:
+
+4.8.1 (tools)
+=============
+
+* *Release: 4 July 2024*
+
+* **Security:**
+
+  * Updated to newer Docker base image due to vulnerability CVE-2024-5535
+
 .. _v4.8:
 
 4.8
@@ -28,7 +39,18 @@ Changelog
 
   * Upgraded Font Awesome used for icons to version 6
 
-.. _v4.7.1:
+.. _v4.7.1-tools:
+
+4.7.1 (tools)
+=============
+
+* *Release: 4 July 2024*
+
+* **Security:**
+
+  * Updated to newer Docker base image due to vulnerability CVE-2024-5535
+
+.. _v4.7.1-backend:
 
 4.7.1 (backend)
 ===============
@@ -59,7 +81,7 @@ Changelog
 
   * Unified visual styles of TODOs and Comments in Questionnaire
 
-.. _v4.6.1:
+.. _v4.6.1-backend:
 
 4.6.1 (backend)
 ===============
