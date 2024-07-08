@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.8.1-frontend:
+
+4.8.1 (frontend)
+================
+
+* *Release: 8 July 2024*
+
+* **Security:**
+
+  * Updated Docker image due to vulnerability CVE-2024-5535
+
 .. _v4.8.1-tools:
 
 4.8.1 (tools)
@@ -10,7 +21,7 @@ Changelog
 
 * **Security:**
 
-  * Updated to newer Docker base image due to vulnerability CVE-2024-5535
+  * Updated Docker image due to vulnerability CVE-2024-5535
 
 .. _v4.8:
 
@@ -39,6 +50,17 @@ Changelog
 
   * Upgraded Font Awesome used for icons to version 6
 
+.. _v4.7.1-frontend:
+
+4.7.1 (frontend)
+================
+
+* *Release: 8 July 2024*
+
+* **Security:**
+
+  * Updated Docker image due to vulnerability CVE-2024-5535
+
 .. _v4.7.1-tools:
 
 4.7.1 (tools)
@@ -48,7 +70,7 @@ Changelog
 
 * **Security:**
 
-  * Updated to newer Docker base image due to vulnerability CVE-2024-5535
+  * Updated Docker image due to vulnerability CVE-2024-5535
 
 .. _v4.7.1-backend:
 
