@@ -1,6 +1,18 @@
 Changelog
 *********
 
+.. _v4.8.2-frontend:
+
+4.8.2 (frontend)
+================
+
+* *Release: 24 July 2024*
+
+* **Bugfixes:**
+
+  * Fixed integration question search when requests take too long
+
+
 .. _v4.8.1-frontend:
 
 4.8.1 (frontend)
@@ -49,6 +61,18 @@ Changelog
 * **Misc:**
 
   * Upgraded Font Awesome used for icons to version 6
+
+.. _v4.7.2-frontend:
+
+4.7.2 (frontend)
+================
+
+* *Release: 24 July 2024*
+
+* **Bugfixes:**
+
+  * Fixed integration question search when requests take too long
+
 
 .. _v4.7.1-frontend:
 
