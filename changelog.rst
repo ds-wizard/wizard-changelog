@@ -1,6 +1,25 @@
 Changelog
 *********
 
+.. _v4.9:
+
+4.9
+===
+
+* *Release: 6 August 2024*
+
+* **Features:**
+
+  * Added option to view all resolved Comments
+  * Added possibility to assign Comments to Users
+  * Added Mailer version to About modal in Registry
+  * Improved sidetabs (TODOs, Comments and Version History) in Project to be persistent on reload or reopen
+
+* **Bugfixes:**
+
+  * Fixed email was sent when User added themselves to a Project
+  * Fixed other present Users name was not visible whole in anonymous Project Sharing
+
 .. _v4.8.2-frontend:
 
 4.8.2 (frontend)
