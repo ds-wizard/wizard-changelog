@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.9.1-tools:
+
+4.9.1 (tools)
+=============
+
+* *Release: 9 August 2024*
+
+* **Security:**
+
+  * Updated Docker image due to vulnerability CVE-2024-38428
+
 .. _v4.9:
 
 4.9
@@ -19,6 +30,17 @@ Changelog
 
   * Fixed email was sent when User added themselves to a Project
   * Fixed other present Users name was not visible whole in anonymous Project Sharing
+
+.. _v4.8.2-tools:
+
+4.8.2 (tools)
+=============
+
+* *Release: 9 August 2024*
+
+* **Security:**
+
+  * Updated Docker image due to vulnerability CVE-2024-38428
 
 .. _v4.8.2-frontend:
 
