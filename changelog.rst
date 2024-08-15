@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.9.1-backend:
+
+4.9.1 (backend)
+===============
+
+* *Release: 9 August 2024*
+
+* **Bugfixes:**
+
+  * Fix missing validation when creating a Project through API
+
 .. _v4.9.1-tools:
 
 4.9.1 (tools)
@@ -30,6 +41,17 @@ Changelog
 
   * Fixed email was sent when User added themselves to a Project
   * Fixed other present Users name was not visible whole in anonymous Project Sharing
+
+.. _v4.8.1-backend:
+
+4.8.1 (backend)
+===============
+
+* *Release: 9 August 2024*
+
+* **Bugfixes:**
+
+  * Fix missing validation when creating a Project through API
 
 .. _v4.8.2-tools:
 
