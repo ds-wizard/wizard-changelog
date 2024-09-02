@@ -1,6 +1,33 @@
 Changelog
 *********
 
+.. _v4.10:
+
+4.10
+====
+
+* *Release: 3 October 2024*
+
+* **Breaking:**
+
+  * Increased metamodel version for Document Template to 14 (all document templates need to be upgraded manually)
+
+* **Features:**
+
+  * Added Item Select question type
+  * Added Knowledge Model appendix to enable adding references
+  * Added order to items in Registry
+  * Added information about ongoing migration to all Project tabs
+  * Improved wording in tags selection while creating a Project for Knowledge Models with no tags
+  * Improved Document Context with additional Project details
+
+* **Bugfixes:**
+
+  * Fixed wrongly displayed time in About modal in Registry
+  * Fixed chapter names would be displayed when they had some resolved comments but the switch to display them was turned off
+  * Fixed Preview would break after trying to delete used Document Template
+  * Fixed error when renaming version in a Project
+
 .. _v4.9.1-backend:
 
 4.9.1 (backend)
