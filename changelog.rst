@@ -1,12 +1,23 @@
 Changelog
 *********
 
+.. _v4.10.1:
+
+4.10.1
+======
+
+* *Release: 4 September 2024*
+
+* **Bugfixes:**
+
+  * Fixed unknown metamodel version 14 in TDK
+
 .. _v4.10:
 
 4.10
 ====
 
-* *Release: 3 October 2024*
+* *Release: 3 September 2024*
 
 * **Breaking:**
 
