@@ -4,6 +4,7 @@ Changelog
 .. _v4.10.4-tools:
 
 4.10.4 (tools)
+==============
 
 * *Release: 10 September 2024*
 
@@ -14,6 +15,7 @@ Changelog
 .. _v4.10.1-frontend:
 
 4.10.1 (frontend)
+=================
 
 * *Release: 9 September 2024*
 
@@ -24,6 +26,7 @@ Changelog
 .. _v4.10.3-tools:
 
 4.10.3 (tools)
+==============
 
 * *Release: 9 September 2024*
 
@@ -34,6 +37,7 @@ Changelog
 .. _v4.10.2-tools:
 
 4.10.2 (tools)
+==============
 
 * *Release: 6 September 2024*
 
@@ -44,7 +48,7 @@ Changelog
 .. _v4.10.1-tools:
 
 4.10.1 (tools)
-======
+==============
 
 * *Release: 4 September 2024*
 
@@ -82,6 +86,7 @@ Changelog
 .. _v4.9.4-tools:
 
 4.9.4 (tools)
+=============
 
 * *Release: 10 September 2024*
 
@@ -92,6 +97,7 @@ Changelog
 .. _v4.9.1-frontend:
 
 4.9.1 (frontend)
+================
 
 * *Release: 9 September 2024*
 
@@ -102,6 +108,7 @@ Changelog
 .. _v4.9.3-tools:
 
 4.9.3 (tools)
+=============
 
 * *Release: 9 September 2024*
 
@@ -112,6 +119,7 @@ Changelog
 .. _v4.9.2-tools:
 
 4.9.2 (tools)
+=============
 
 * *Release: 6 September 2024*
 
