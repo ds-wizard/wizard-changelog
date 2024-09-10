@@ -1,9 +1,49 @@
 Changelog
 *********
 
-.. _v4.10.1:
+.. _v4.10.4-tools:
 
-4.10.1
+4.10.4 (tools)
+
+* *Release: 10 September 2024*
+
+* **Bugfixes:**
+
+  * Fixed selection of SMTP security mechanism in mailer
+
+.. _v4.10.1-frontend:
+
+4.10.1 (frontend)
+
+* *Release: 9 September 2024*
+
+* **Security:**
+
+  * Fixed libexpat vulnerabilities CVE-2024-45490, CVE-2024-45491, CVE-2024-45492
+
+.. _v4.10.3-tools:
+
+4.10.3 (tools)
+
+* *Release: 9 September 2024*
+
+* **Security:**
+
+  * Fixed libexpat vulnerabilities CVE-2024-45490, CVE-2024-45491, CVE-2024-45492
+
+.. _v4.10.2-tools:
+
+4.10.2 (tools)
+
+* *Release: 6 September 2024*
+
+* **Bugfixes:**
+
+  * Fixed build-info.sh script for Git tags
+
+.. _v4.10.1-tools:
+
+4.10.1 (tools)
 ======
 
 * *Release: 4 September 2024*
@@ -38,6 +78,46 @@ Changelog
   * Fixed chapter names would be displayed when they had some resolved comments but the switch to display them was turned off
   * Fixed Preview would break after trying to delete used Document Template
   * Fixed error when renaming version in a Project
+
+.. _v4.9.4-tools:
+
+4.9.4 (tools)
+
+* *Release: 10 September 2024*
+
+* **Bugfixes:**
+
+  * Fixed selection of SMTP security mechanism in mailer
+
+.. _v4.9.1-frontend:
+
+4.9.1 (frontend)
+
+* *Release: 9 September 2024*
+
+* **Security:**
+
+  * Fixed libexpat vulnerabilities CVE-2024-45490, CVE-2024-45491, CVE-2024-45492
+
+.. _v4.9.3-tools:
+
+4.9.3 (tools)
+
+* *Release: 9 September 2024*
+
+* **Security:**
+
+  * Fixed libexpat vulnerabilities CVE-2024-45490, CVE-2024-45491, CVE-2024-45492
+
+.. _v4.9.2-tools:
+
+4.9.2 (tools)
+
+* *Release: 6 September 2024*
+
+* **Bugfixes:**
+
+  * Fixed build-info.sh script for Git tags
 
 .. _v4.9.1-backend:
 
