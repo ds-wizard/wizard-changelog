@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.10.5-tools:
+
+4.10.5 (tools)
+==============
+
+* *Release: 13 September 2024*
+
+* **Bugfixes**
+
+  * Fixed command queue job timeout in workers
+
 .. _v4.10.4-tools:
 
 4.10.4 (tools)
@@ -82,6 +93,17 @@ Changelog
   * Fixed chapter names would be displayed when they had some resolved comments but the switch to display them was turned off
   * Fixed Preview would break after trying to delete used Document Template
   * Fixed error when renaming version in a Project
+
+.. _v4.9.5-tools:
+
+4.9.5 (tools)
+==============
+
+* *Release: 13 September 2024*
+
+* **Bugfixes**
+
+  * Fixed command queue job timeout in workers
 
 .. _v4.9.4-tools:
 
