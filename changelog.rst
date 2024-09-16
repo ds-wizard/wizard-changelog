@@ -1,6 +1,18 @@
 Changelog
 *********
 
+.. _v4.10.6-tools:
+
+4.10.6 (tools)
+==============
+
+* *Release: 16 September 2024*
+
+* **Bugfixes**
+
+  * Fixed document context inconsistencies in document worker
+  * Fixed database configuration in data seeder
+
 .. _v4.10.5-tools:
 
 4.10.5 (tools)
@@ -93,6 +105,18 @@ Changelog
   * Fixed chapter names would be displayed when they had some resolved comments but the switch to display them was turned off
   * Fixed Preview would break after trying to delete used Document Template
   * Fixed error when renaming version in a Project
+
+.. _v4.9.6-tools:
+
+4.9.6 (tools)
+==============
+
+* *Release: 16 September 2024*
+
+* **Bugfixes**
+
+  * Fixed document context inconsistencies in document worker
+  * Fixed database configuration in data seeder
 
 .. _v4.9.5-tools:
 
