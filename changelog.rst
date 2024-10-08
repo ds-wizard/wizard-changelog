@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.11.1-frontend:
+
+4.11.1 (frontend)
+=================
+
+* *Release: 8 October 2024*
+
+* **Bugfixes:**
+
+  * Added throttling to KM editor to improve reliability
+
 .. _v4.11.0:
 
 4.11.0
@@ -24,6 +35,19 @@ Changelog
   * Fixed Preview would break after trying to delete used Document Template
   * Fixed error when renaming version in a Project
 
+.. _v4.10.2-frontend:
+
+4.10.2 (frontend)
+=================
+
+* *Release: 8 October 2024*
+
+* **Bugfixes:**
+
+  * Added throttling to KM editor to improve reliability
+  * Fixed wrongly colored links
+  * Fixed clicking on KM Editor warnings would open chatbot helper sidebar
+  
 .. _v4.10.6-tools:
 
 4.10.6 (tools)
