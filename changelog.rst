@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.11.1-backend:
+
+4.11.1 (backend)
+================
+
+* *Release: 9 October 2024*
+
+* **Bugfixes:**
+
+  * Fixed an issue with squashing in KM Editor where some changes would disappear
+
 .. _v4.11.1-frontend:
 
 4.11.1 (frontend)
@@ -34,6 +45,17 @@ Changelog
   * Fixed chapter names would be displayed when they had some resolved comments but the switch to display them was turned off
   * Fixed Preview would break after trying to delete used Document Template
   * Fixed error when renaming version in a Project
+
+.. _v4.10.1-backend:
+
+4.10.1 (backend)
+================
+
+* *Release: 9 October 2024*
+
+* **Bugfixes:**
+
+  * Fixed an issue with squashing in KM Editor where some changes would disappear
 
 .. _v4.10.2-frontend:
 
