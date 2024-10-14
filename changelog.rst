@@ -32,19 +32,12 @@ Changelog
 
 * **Features:**
 
-  * Added Item Select question type
-  * Added Knowledge Model appendix to enable adding references
-  * Added order to items in Registry
-  * Added information about ongoing migration to all Project tabs
-  * Improved wording in tags selection while creating a Project for Knowledge Models with no tags
-  * Improved Document Context with additional Project details
+  * Added steps prefabs to Document Template Editor
+  * Added link to Markdown Guide page to Markdown inputs
 
 * **Bugfixes:**
 
-  * Fixed wrongly displayed time in About modal in Registry
-  * Fixed chapter names would be displayed when they had some resolved comments but the switch to display them was turned off
-  * Fixed Preview would break after trying to delete used Document Template
-  * Fixed error when renaming version in a Project
+  * Fixed organization ID validation in settings
 
 .. _v4.10.1-backend:
 
@@ -2327,7 +2320,7 @@ Changelog
 1.9
 ===
 
-* *Release: 30 June 2019*xww
+* *Release: 30 June 2019*
 * **Key changes:**
   
   * Migrate Questionnaires to new KM Model
