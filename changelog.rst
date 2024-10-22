@@ -1,6 +1,28 @@
 Changelog
 *********
 
+.. _v4.11.2-backend:
+
+4.11.2 (backend)
+================
+
+* *Release: 22 October 2024*
+
+* **Bugfixes:**
+
+  * Fixed an issue with squashing in KM Editor where some changes would disappear
+
+.. _v4.11.2-frontend:
+
+4.11.2 (frontend)
+=================
+
+* *Release: 22 October 2024*
+
+* **Bugfixes:**
+
+  * No visible changes to users
+
 .. _v4.11.1-backend:
 
 4.11.1 (backend)
@@ -38,6 +60,17 @@ Changelog
 * **Bugfixes:**
 
   * Fixed organization ID validation in settings
+
+.. _v4.10.2-backend:
+
+4.10.2 (backend)
+================
+
+* *Release: 22 October 2024*
+
+* **Bugfixes:**
+
+  * Fixed an issue with squashing in KM Editor where some changes would disappear
 
 .. _v4.10.1-backend:
 
