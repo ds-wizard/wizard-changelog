@@ -1,6 +1,31 @@
 Changelog
 *********
 
+.. _v4.12:
+
+4.12
+====
+
+* *Release: 5 November 2024*
+
+* **Breaking:**
+
+  * Increased metamodel version for Document Template to 15 (all document templates need to be upgraded manually)
+  * Increased metamodel version for Knowledge Model to 16 (it will not be possible to import knowledge models to older DSW versions)
+
+* **Features:**
+
+  * Added File question type
+
+* **Bugfixes:**
+
+  * Fixed clicking on switches in Sharing modal would close sidebar in project
+
+* **Misc:**
+
+  * Improved error message in Project Settings when template is not supported
+  * Improved message after sign up to Registry
+
 .. _v4.11.2-backend:
 
 4.11.2 (backend)
@@ -45,10 +70,10 @@ Changelog
 
   * Added throttling to KM editor to improve reliability
 
-.. _v4.11.0:
+.. _v4.11:
 
-4.11.0
-======
+4.11
+====
 
 * *Release: 1 October 2024*
 
