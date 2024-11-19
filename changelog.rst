@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.12.1-frontend:
+
+4.12.1 (frontend)
+=================
+
+* *Release: 19 November 2024*
+
+* **Misc:**
+
+  * Added automatic retry for housekeeping during migrations
+
 .. _v4.12:
 
 4.12
@@ -23,6 +34,7 @@ Changelog
 
 * **Misc:**
 
+  * Added housekeeping mode improving migrations to new versions
   * Improved error message in Project Settings when template is not supported
   * Improved message after sign up to Registry
 
