@@ -1,6 +1,36 @@
 Changelog
 *********
 
+.. _v4.13:
+
+4.13
+====
+
+* *Release: 3 December 2024*
+
+* **Breaking:**
+
+  * Increased metamodel version for Document Template to 16 (all document templates need to be upgraded manually)
+  * Increased metamodel version for Knowledge Model to 17 (it will not be possible to import knowledge models to older DSW versions)
+
+* **Features:**
+
+  * Added Value question validation
+  * Added rename and move file to Document Template Editor
+
+* **Bugfixes:**
+
+  * Fixed deleting Document Template assets would not work when deleted from list
+  * Fixed deleted List of Items questions would be visible in Item Select question selection
+  * Fixed first character in URL field would be copied into Label field in URL Reference
+  * Fixed wrong actions on public KM
+
+* **Misc:**
+
+  * Improved wording for empty chapter info caused by Question Tags selection
+  * Improved message when retesting token in Registry
+  * Improved closing sidebar in Project toggles named version switch
+
 .. _v4.12.1-frontend:
 
 4.12.1 (frontend)
