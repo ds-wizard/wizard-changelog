@@ -1,6 +1,40 @@
 Changelog
 *********
 
+.. _v4.14:
+
+4.14
+====
+
+* *Release: 7 January 2025*
+
+* **Features:**
+
+  * Added Document Template Development with Knowledge Model Editor to enable simultaneous development
+  * Added navigation for browsing between comments in Project
+  * Added collapse all button after last item when there are 3 and more items in List of Items question in Project 
+  * Added option to delete folder in Document Template Editor
+
+* **Bugfixes:**
+
+  * Fixed reverting to older Project version would lead to error
+  * Fixed error on unsupported default Document Template would persist even when another Document Template was selected
+  * Fixed redirect for Document Templates in Registry
+  * Fixed storage limit in Document Worker
+  * Fixed logo alignment in public layout (login screen)
+  * Fixed OpenID config could not be saved when there was wrong/empty values
+  * Fixed another configured OpenID could not be deleted after deleting another one first
+  * Fixed missing OpenID config Client Secret error subtitle
+  * Fixed using Submission Service without user properties would lead to error
+  * Fixed deleting user would not delete assigned comment reference from Data Management Planner
+   
+* **Misc:**
+
+  * Improved retry mechanism for Document generation
+  * Improved error reporting in workers
+  * Improved DSW-TDK file handling and new template creation
+  * Updated chart.js to version 4
+
 .. _v4.13:
 
 4.13
