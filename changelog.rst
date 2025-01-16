@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.14.1-frontend:
+
+4.14.1 (frontend)
+=================
+
+* *Release: 14 January 2025*
+
+* **Bugfixes:**
+
+  * Fixed Menu to view correct items based on role
+
 .. _v4.14:
 
 4.14
@@ -34,6 +45,17 @@ Changelog
   * Improved error reporting in workers
   * Improved DSW-TDK file handling and new template creation
   * Updated chart.js to version 4
+
+.. _v4.13.1-frontend:
+
+4.13.1 (frontend)
+=================
+
+* *Release: 14 January 2025*
+
+* **Bugfixes:**
+
+  * Fixed Menu to view correct items based on role
 
 .. _v4.13:
 
