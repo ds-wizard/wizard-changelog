@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.14.1-backend:
+
+4.14.1 (backend)
+================
+
+* *Release: 20 January 2025*
+
+* **Bugfixes:**
+
+  * Fixed Labels and Project phases missing in Document Context
+  
 .. _v4.14.1-frontend:
 
 4.14.1 (frontend)
