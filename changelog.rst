@@ -1,6 +1,16 @@
 Changelog
 *********
 
+.. _v4.14.2-backend:
+
+4.14.2 (backend)
+
+Release: 24 January 2025
+
+* **Bugfixes:**
+
+  * No visible changes to users
+
 .. _v4.14.1-backend:
 
 4.14.1 (backend)
@@ -477,7 +487,6 @@ Changelog
 
   * Fixed integration question search when requests take too long
 
-
 .. _v4.8.1-frontend:
 
 4.8.1 (frontend)
@@ -537,7 +546,6 @@ Changelog
 * **Bugfixes:**
 
   * Fixed integration question search when requests take too long
-
 
 .. _v4.7.1-frontend:
 
@@ -861,7 +869,6 @@ Changelog
 
   * Fixed cleaning temporary-generated documents
 
-
 .. _v4.2.1-tools:
 
 4.2.1 (tools)
@@ -873,7 +880,6 @@ Changelog
 
   * Use Jinja2 sandboxed environment for document generation.
   * Fixed CVE-2023-7104.
-
 
 .. _v4.2:
 
@@ -900,7 +906,6 @@ Changelog
 
   * Fixed links to questions in questionnaires.
 
-
 .. _v4.1.2-tools:
 
 4.1.2 (tools)
@@ -913,7 +918,6 @@ Changelog
   * Use Jinja2 sandboxed environment for document generation.
   * Fixed CVE-2023-7104.
 
-
 .. _v4.1.1-tools:
 
 4.1.1 (tools)
@@ -925,7 +929,6 @@ Changelog
 
   * Fixed retry mechanism for command queue used in workers.
 
-
 .. _v4.1.1-backend:
 
 4.1.1 (backend)
@@ -936,7 +939,6 @@ Changelog
 * **Bugfixes:**
 
   * Fixed upgrading the Document Template metamodel version for Document Template Editors.
-
 
 .. _v4.1:
 
@@ -959,7 +961,6 @@ Changelog
 
   * Unified UID and GID in Docker images.
 
-
 .. _v4.0.1-tools:
 
 4.0.1 (tools)
@@ -971,7 +972,6 @@ Changelog
 
   * Fixed retry mechanism for command queue used in workers.
 
-
 .. _v4.0.3-frontend:
 
 4.0.3 (frontend)
@@ -979,8 +979,9 @@ Changelog
 
 * *Release: 1 December 2023*
 
-* No visible changes to users.
+* **Bugfixes:**
 
+  * No visible changes to users.
 
 .. _v4.0.2-frontend:
 
@@ -994,7 +995,6 @@ Changelog
   * Fixed links to other apps.
   * Fixed clearing tokens after logout.
 
-
 .. _v4.0.1-backend:
 
 4.0.1 (backend)
@@ -1005,7 +1005,6 @@ Changelog
 * **Bugfixes:**
 
   * Fixed duplicate documents in document lists.
-
 
 .. _v4.0.1-frontend:
 
@@ -1022,7 +1021,6 @@ Changelog
 * **Misc:**
 
   * Removed style version from about dialog (as it is no longer used since 4.0).
-
 
 .. _v4.0:
 
@@ -1044,7 +1042,6 @@ Changelog
   * Fixed warnings for deleted entities in the KM editor.
   * Fixed watch mode termination in TDK in some cases.
   * Fixed creating templates with brackets in name in TDK.
-
 
 .. _v3.28:
 
@@ -1074,7 +1071,6 @@ Changelog
 
   * Changed the default user role from data steward to researcher when a new wizard instance is started.
 
-
 .. _v3.27.1-tools:
 
 3.27.1 (tools)
@@ -1085,7 +1081,6 @@ Changelog
 * **Bugfixes:**
 
   * Fix detection of PDF output document format.
-
 
 .. _v3.27.1-backend:
 
@@ -1098,7 +1093,6 @@ Changelog
 
   * Fixed document template formats that didn't work under certain conditions.
 
-
 .. _v3.27.1-frontend:
 
 3.27.1 (frontend)
@@ -1109,7 +1103,6 @@ Changelog
 * **Security:**
 
   * Fixed CVE-2023-32559 and CVE-2023-32002.
-
 
 .. _v3.27:
 
@@ -1133,7 +1126,6 @@ Changelog
 
   * Removed credentials authentication from TDK, API keys should be used instead.
 
-
 .. _v3.26.2-tools:
 
 3.26.2 (tools)
@@ -1144,7 +1136,6 @@ Changelog
 * **Bugfixes:**
 
   * Fix detection of PDF output document format.
-
 
 .. _v3.26.1-backend:
 
@@ -1157,7 +1148,6 @@ Changelog
 
   * Fixed document template formats that didn't work under certain conditions.
 
-
 .. _v3.26.1-tools:
 
 3.26.1 (tools)
@@ -1169,7 +1159,6 @@ Changelog
 
   * Fixed loading custom mail config in mailer.
 
-
 .. _v3.26.1-frontend:
 
 3.26.1 (frontend)
@@ -1180,7 +1169,6 @@ Changelog
 * **Bugfixes:**
 
   * Fixed the knowledge model filter on the project list.
-
 
 .. _v3.26:
 
