@@ -1,6 +1,29 @@
 Changelog
 *********
 
+.. _v4.15:
+
+4.15
+====
+
+* *Release: 4 February 2025*
+
+* **Features:**
+
+  * Added support for Document Worker plugins
+  * Added keyboard shortcuts to modals (Enter to confirm, Esc to cancel)
+  * Added links to Guide to provide better context on some pages
+
+* **Bugfixes**
+
+  * Fixed some values in Knowledge Model Editor Preview after saving values would be missing
+  * Fixed error reporting on Worker startup
+  * Fixed broken variables in logs in Template Development Kit
+
+* **Misc:**
+
+  * Unified naming and URL addresses of subitems in Projects menu
+
 .. _v4.14.2-backend:
 
 4.14.2 (backend)
