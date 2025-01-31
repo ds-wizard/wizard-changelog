@@ -24,6 +24,17 @@ Changelog
 
   * Unified naming and URL addresses of subitems in Projects menu
 
+.. _v4.14.3-backend:
+
+4.14.3 (backend)
+================
+
+* *Release: 31 January 2025*
+
+* **Bugfixes:**
+
+  * Fixed newly created Admin user would be missing permission to view Files
+
 .. _v4.14.2-backend:
 
 4.14.2 (backend)
