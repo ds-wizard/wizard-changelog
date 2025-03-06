@@ -1,6 +1,32 @@
 Changelog
 *********
 
+.. _v4.16:
+
+4.16
+====
+
+* *Release: 6 March 2025*
+
+* **Features:**
+
+  * Refactored Questionnaire database model to optimize and speed up operations
+  * Added bulk import of Knowledge Models, Documents Templates and Locales
+  * Added indication that there is something hidden by View in Project
+
+* **Bugfixes**
+
+  * Fixed view resolved comments switch was visible even with no resolved comments in Project
+  * Fixed Project tags could not be added if it contained special Czech long characters (í, ý, á, ...)
+  * Fixed several issues related to File and File question in Project
+  * Fixed several issues related to Save Preview Values in Knowledge Model editor preview
+
+* **Misc:**
+
+  * Enlarged Item clickable area for collapse or expand in List of Items question
+  * Unified URL for Knowledge Models and Knowledge Model Editors
+  * Renamed Edit Profile to User Settings in user menu to better reflect its contents
+
 .. _v4.15:
 
 4.15
