@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.16.1-frontend:
+
+4.16.1 (frontend)
+=================
+
+* *Release: 13 March 2025*
+
+* **Bugfixes:**
+
+  * Fixed libxml2 vulnerability CVE-2024-40896
+
 .. _v4.16:
 
 4.16
@@ -26,6 +37,17 @@ Changelog
   * Enlarged Item clickable area for collapse or expand in List of Items question
   * Unified URL for Knowledge Models and Knowledge Model Editors
   * Renamed Edit Profile to User Settings in user menu to better reflect its contents
+
+.. _v4.15.1-frontend:
+
+4.15.1 (frontend)
+=================
+
+* *Release: 13 March 2025*
+
+* **Bugfixes:**
+
+  * Fixed libxml2 vulnerability CVE-2024-40896
 
 .. _v4.15:
 
