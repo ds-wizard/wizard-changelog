@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.16.1-backend:
+
+4.16.1 (backend)
+================
+
+* *Release: 20 March 2025*
+
+* **Bugfixes:**
+
+  * Fixed migration after the Questionnaire database model refactor
+
 .. _v4.16.1-frontend:
 
 4.16.1 (frontend)
