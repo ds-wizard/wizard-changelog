@@ -1,6 +1,32 @@
 Changelog
 *********
 
+.. _v4.17:
+
+4.17
+====
+
+* *Release: 1 April 2025*
+
+* **Features:**
+
+  * Added check for no matching files in DSW-TDK
+
+* **Bugfixes**
+
+  * Fixed persistent error when losing comment access in Project while the Project is opened
+  * Fixed Questionnaire could not be viewed from generated Document after role change
+  * Fixed incorrect permissions would be set for "Other Logged-In Users" when "Comment" option was selected for public link
+  * Fixed URL validation in Questionnaire
+  * Fixed non-break space would be created in Integration configuration in Settings when using Safari
+  * Fixed error reporting of Document Template issues
+
+* **Misc:**
+
+  * Unified IDs style to use alphanumeric characters
+  * Removed Assign Comment button for anonymous User
+  * Improved error messages for missing entities
+
 .. _v4.16.1-backend:
 
 4.16.1 (backend)
