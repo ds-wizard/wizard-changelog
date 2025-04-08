@@ -1,6 +1,18 @@
 Changelog
 *********
 
+.. _v4.17.1-backend:
+
+4.17.1 (backend)
+================
+
+* *Release: 4 April 2025*
+
+* **Bugfixes:**
+
+  * Fix wrong serialization and deserialization of integration reply from/to DB
+
+
 .. _v4.17:
 
 4.17
