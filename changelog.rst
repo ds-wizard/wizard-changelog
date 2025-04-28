@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.17.1-frontend:
+
+4.17.1 (frontend)
+=================
+
+* *Release: 28 April 2025*
+
+* **Bugfixes:**
+  
+  * Fixed missing error message in creating a Project while exceeding Projects limit
+
 .. _v4.17.1-backend:
 
 4.17.1 (backend)
@@ -10,8 +21,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fix wrong serialization and deserialization of integration reply from/to DB
-
+  * Fixed wrong serialization and deserialization of integration reply from/to DB
 
 .. _v4.17:
 
@@ -38,6 +48,17 @@ Changelog
   * Unified IDs style to use alphanumeric characters
   * Removed Assign Comment button for anonymous User
   * Improved error messages for missing entities
+
+.. _v4.16.2-frontend:
+
+4.16.2 (frontend)
+=================
+
+* *Release: 28 April 2025*
+
+* **Bugfixes:**
+  
+  * Fixed missing error message in creating a Project while exceeding Projects limit
 
 .. _v4.16.1-backend:
 
