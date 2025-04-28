@@ -10,7 +10,7 @@ Changelog
 
 * **Bugfixes:**
   
-  * Fixed missing error message in creating a Project while exceeding Projects limit
+  * Fixed missing error message when creating a Project
 
 .. _v4.17.1-backend:
 
@@ -58,7 +58,7 @@ Changelog
 
 * **Bugfixes:**
   
-  * Fixed missing error message in creating a Project while exceeding Projects limit
+  * Fixed missing error message when creating a Project
 
 .. _v4.16.1-backend:
 
