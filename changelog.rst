@@ -1,6 +1,30 @@
 Changelog
 *********
 
+.. _v4.18:
+
+4.18
+====
+
+* *Release: 6 May 2025*
+
+* **Features:**
+
+  * Added input validation for OpenID ID and submission settings ID
+  * Added focus to text input after adding new Annotation in Knowledge Model Editor
+
+* **Bugfixes:**
+
+  * Fixed creating a Document from a non-current named version would include all named versions in the history
+  * Fixed Comments would not load after granting access in Project while the Project is opened
+  * Fixed TODOs would be sent from backend to Viewer and Commenter roles in Project
+  * Fixed reverting a Project would not change updatedAt on a questionnaire
+  * Fixed reverting a Project would not remove uploaded file
+
+* **Misc:**
+
+  * Updated Pandoc in Document Worker
+
 .. _v4.17.1-frontend:
 
 4.17.1 (frontend)
