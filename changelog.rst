@@ -10,6 +10,7 @@ Changelog
 
 * **Features:**
 
+  * Added localizations for emails
   * Added input validation for OpenID ID and submission settings ID
   * Added focus to text input after adding new Annotation in Knowledge Model Editor
 
