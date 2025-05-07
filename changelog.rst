@@ -8,6 +8,10 @@ Changelog
 
 * *Release: 6 May 2025*
 
+* **Breaking:**
+
+  * Updating to DSW 4.18 will remove all existing locales. They need to be backed up and re-imported after the update.
+
 * **Features:**
 
   * Added localizations for emails
