@@ -21,7 +21,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fixed missing default locale if the default locale was previously changed
+  * Fixed missing client URL in mail templates
 
 .. _v4.18.1-backend:
 
