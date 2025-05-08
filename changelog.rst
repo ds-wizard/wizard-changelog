@@ -1,6 +1,39 @@
 Changelog
 *********
 
+.. _v4.18.2-tools:
+
+4.18.2 (tools)
+==============
+
+* *Release: 8 May 2025*
+
+* **Bugfixes:**
+
+  * Fixed using default locale in mails
+
+.. _v4.18.1-tools:
+
+4.18.1 (tools)
+==============
+
+* *Release: 7 May 2025*
+
+* **Bugfixes:**
+
+  * Fixed missing default locale if the default locale was previously changed
+
+.. _v4.18.1-backend:
+
+4.18.1 (backend)
+================
+
+* *Release: 7 May 2025*
+
+* **Bugfixes:**
+
+  * Fixed missing default locale if the default locale was previously changed
+
 .. _v4.18:
 
 4.18
