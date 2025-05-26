@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.18.3-tools:
+
+4.18.3 (tools)
+==============
+
+* *Release: 26 May 2025*
+
+* **Bugfixes:**
+
+  * Fixed missing support to seed multiple S3
+
 .. _v4.18.2-tools:
 
 4.18.2 (tools)
