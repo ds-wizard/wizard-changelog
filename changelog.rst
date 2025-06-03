@@ -14,10 +14,12 @@ Changelog
   * Added link to Integration from a Question in Knowledge Model Editor
 
 * **Bugfixes:**
+
   * Fixed ``propName`` encoding in Integration question
   * Fixed ``q`` variable encoding in integration question
 
 * **Misc:**
+
   * Added guide link and enhance variable hints for HTTP URL and body in Integration question
 
 .. _v4.18.3-tools:
