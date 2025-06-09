@@ -1,6 +1,28 @@
 Changelog
 *********
 
+.. _v4.19.1-backend:
+
+4.19.1 (backend)
+================
+
+* *Release: 9 June 2025*
+
+* **Bugfixes:**
+
+  * Fixed text input encoding in Settings
+
+.. _v4.19.1-tools:
+
+4.19.1 (tools)
+==============
+
+* *Release: 6 June 2025*
+
+* **Security:**
+
+  * Fixed vulnerability CVE-2025-4517
+
 .. _v4.19:
 
 4.19
@@ -21,6 +43,28 @@ Changelog
 * **Misc:**
 
   * Added guide link and enhance variable hints for HTTP URL and body in Integration question
+
+.. _v4.18.2-backend:
+
+4.18.2 (backend)
+================
+
+* *Release: 9 June 2025*
+
+* **Bugfixes:**
+
+  * Fixed text input encoding in Settings
+
+.. _v4.18.4-tools:
+
+4.18.4 (tools)
+==============
+
+* *Release: 6 June 2025*
+
+* **Security:**
+
+  * Fixed vulnerability CVE-2025-4517
 
 .. _v4.18.3-tools:
 
