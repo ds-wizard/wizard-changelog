@@ -1,6 +1,26 @@
 Changelog
 *********
 
+.. _v4.20:
+
+4.20
+====
+
+* *Release: 1 July 2025*
+
+* **Features:**
+
+  * Added support for reply extraction via Knowledge Model annotations in document templates
+  * Added item naming for all question types
+
+* **Bugfixes:**
+
+  * Fixed position of logo and buttons in logout screen
+  * Fixed line break in expand/collapse buttons in Knowledge Model Editor
+  * Fixed Document Template Editor quick setup with no prefabs
+  * Fix document would not be regenerated when updating only assets (reference.docx, logos, ...) in Document Template Editor
+  * Fixed answer to file question would not be rendered properly in Document
+
 .. _v4.19.1-backend:
 
 4.19.1 (backend)
