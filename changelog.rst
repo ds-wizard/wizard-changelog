@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.21.1-tools:
+
+4.21.1 (tools)
+==============
+
+* *Release: 23 July 2025*
+
+* **Security:**
+
+  * Fixed vulnerability CVE-2025-6965
+
 .. _v4.20:
 
 4.20
@@ -20,6 +31,17 @@ Changelog
   * Fixed Document Template Editor quick setup with no prefabs
   * Fix document would not be regenerated when updating only assets (reference.docx, logos, ...) in Document Template Editor
   * Fixed answer to file question would not be rendered properly in Document
+
+.. _v4.19.2-tools:
+
+4.19.2 (tools)
+==============
+
+* *Release: 23 July 2025*
+
+* **Security:**
+
+  * Fixed vulnerability CVE-2025-6965
 
 .. _v4.19.1-backend:
 
