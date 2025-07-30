@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.20.1-backend:
+
+4.20.1 (backend)
+================
+
+* *Release: 30 July 2025*
+
+* **Bugfixes:**
+
+  * Fixed named versions would be missing after migrating Project
+
 .. _v4.20.1-tools:
 
 4.20.1 (tools)
