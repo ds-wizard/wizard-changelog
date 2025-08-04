@@ -1,6 +1,35 @@
 Changelog
 *********
 
+.. _v4.21:
+
+4.21
+====
+
+* *Release: 5 August 2025*
+
+* **Features:**
+
+  * Added option to turn Tours off
+  * Added keep default Document Template after Project Migration if still compatible
+  * Added link from Item Select question to List of Items question when there are no items to select
+  * Added link to Question from Phases and Question Tags editors in Knowledge Model Editor
+  * Added collapse item button at the end of the item in List of Items question
+  * Added scroll to item in Knowledge Model tree in Knowledge Model Editor when item detail is opened
+
+* **Bugfixes:**
+
+  * Fixed previous package ID would be set incorrectly after publishing Knowledge Model Editor
+  * Fixed email about expiring API Key would not be sent under some conditions
+  * Fixed starting a Project Migration would lead to unclear error message if Project was already migrating
+  * Fixed deleting item in allowed packages in public Knowledge Model would save settings
+  * Fixed Knowledge Model and Document Template README would not be rendered correctly in DSW and Registry
+  * Fixed wrong hover color on prefab buttons in Document Template Editor Settings
+
+* **Misc:**
+
+  * Added several missing localizable strings
+
 .. _v4.20.1-backend:
 
 4.20.1 (backend)
