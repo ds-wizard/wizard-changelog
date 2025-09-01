@@ -1,6 +1,41 @@
 Changelog
 *********
 
+.. _v4.22:
+
+4.22
+====
+
+* *Release: 2 September 2025*
+
+* **Breaking:**
+
+  * Increased metamodel version for Document Template to 17 (all Document Templates need to be upgraded manually)
+  * Increased metamodel version for Knowledge Model to 18 (it will not be possible to import Knowledge Models to older DSW versions)
+
+* **Features:**
+
+  * Added Knowledge Model API Integration v2
+  * Added shared Template Development Kit configuration across Document Template projects
+  * Added support for using files as figures in Document Templates
+  * Added automatic refresh of the Assign Comment list after sharing a Project with new Users
+  * Added link to ongoing Project migration from the 'migrating' badge in the Projects list
+
+* **Bugfixes:**
+
+  * Fixed unclear error message when clicking the Activate button in an email after the account was already activated
+  * Fixed last item would appear again after deleting it in Document Submission configuration
+  * Fixed incorrect title of Feature Settings
+  * Fixed User Submission Settings could still be visible and edited after a Document Submission was removed or disabled
+  * Fixed redundant Project Importer link when there was nothing to link to
+  * Fixed broken switch for Summary Report after turning off Project Sharing
+  * Fixed remove button alignment in Document Template selection in Project Settings
+
+* **Misc:**
+
+  * Switched to semantic versioning (semver) for Document Template metamodel version to reduce the number of breaking changes
+  * Disabled Tours for anonymous users
+
 .. _v4.21:
 
 4.21
