@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.22.1-backend:
+
+4.22.1 (backend)
+================
+
+* *Release: 3 September 2025*
+
+* **Bugfixes:**
+
+  * Fixed Knowledge Model Editor would not open if saved preview values contained legacy API Integration
+
 .. _v4.22:
 
 4.22
