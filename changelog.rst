@@ -1,6 +1,18 @@
 Changelog
 *********
 
+.. _v4.22.1-tools:
+
+4.22.1 (tools)
+==============
+
+* *Release: 4 September 2025*
+
+* **Bugfixes:**
+
+  * Fixed checking metamodel and API version in TDK
+  * Fixed missing raw value for extract_replies filter
+
 .. _v4.22.1-backend:
 
 4.22.1 (backend)
