@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.22.2-tools:
+
+4.22.2 (tools)
+==============
+
+* *Release: 5 September 2025*
+
+* **Bugfixes:**
+
+  * Fixed seeding S3 objects
+
 .. _v4.22.1-tools:
 
 4.22.1 (tools)
@@ -58,6 +69,17 @@ Changelog
 
   * Switched to semantic versioning (semver) for Document Template metamodel version to reduce the number of breaking changes
   * Disabled Tours for anonymous users
+
+.. _v4.21.1-tools:
+
+4.21.1 (tools)
+==============
+
+* *Release: 5 September 2025*
+
+* **Bugfixes:**
+
+  * Fixed seeding S3 objects
 
 .. _v4.21:
 
