@@ -1,6 +1,19 @@
 Changelog
 *********
 
+.. _v4.22.2-backend:
+
+4.22.2 (backend)
+================
+
+* *Release: 8 September 2025*
+
+* **Bugfixes:**
+
+  * Fixed missing Integration reply after migrating an Integration question from legacy Integration to new Integrations in a Project
+  * Fixed missing “update available” badge in the Document Template list
+  * Fixed error in Document Template selection in a Project when a Document Template without formats was present in the instance
+
 .. _v4.22.2-tools:
 
 4.22.2 (tools)
