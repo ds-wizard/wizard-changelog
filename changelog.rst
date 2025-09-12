@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.22.3-tools:
+
+4.22.3 (tools)
+==============
+
+* *Release: 12 September 2025*
+
+* **Bugfixes:**
+
+  * Fixed IntegrationReply.url helper in objectified document context for legacy Integrations
+
 .. _v4.22.2-backend:
 
 4.22.2 (backend)
