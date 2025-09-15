@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.22.4-tools:
+
+4.22.4 (tools)
+==============
+
+* *Release: 12 September 2025*
+
+* **Bugfixes:**
+
+  * Fixed value type of Integration Reply
+
 .. _v4.22.3-tools:
 
 4.22.3 (tools)
