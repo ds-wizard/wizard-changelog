@@ -1,6 +1,36 @@
 Changelog
 *********
 
+.. _v4.23:
+
+4.23
+====
+
+* *Release: 7 September 2025*
+
+* **Features:**
+
+  * Added information about Markdown and Jinja usage to API Integration v2
+  * Added link from List of Items question to its connected Item Select question
+  * Added src/* to default files in the DSW Template Development Kit create flow
+  * Prevented the last Project owner from being deselected in the Project Sharing modal
+  * Improved dropdown for selecting List of Items questions in Item Select in the Knowledge Model Editor to include chapter names
+  * Improved user information to clarify that they must first run the test in API Integration v2 before setting the Response
+  * Improved API Integration v2 Response Item Template to place the prefab value at the cursor position
+
+* **Bugfixes:**
+
+  * Fixed creating a Project would lead to an error after switching the Project creation method
+  * Fixed public link switch would not respect the visibility level set by logged-in users in Project settings
+  * Fixed last updated time in the Document Template list would not be calculated correctly
+  * Fixed unclear information strings in API Integration v2
+  * Fixed redundant Response List Field would appear after changing Integration type to API Integration v2 when there was no list in the response
+  * Fixed wrong error message would be displayed in Document Template selection in Project settings if the backend call failed
+
+* **Misc:**
+
+  * Set expire time of invite link to 14 days
+
 .. _v4.22.4-tools:
 
 4.22.4 (tools)
