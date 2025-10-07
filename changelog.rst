@@ -6,7 +6,7 @@ Changelog
 4.23
 ====
 
-* *Release: 7 September 2025*
+* *Release: 7 October 2025*
 
 * **Features:**
 
