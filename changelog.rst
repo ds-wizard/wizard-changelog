@@ -1,6 +1,18 @@
 Changelog
 *********
 
+.. _v4.23.1-tools:
+
+4.23.1 (tools)
+==============
+
+* *Release: 13 October 2025*
+
+* **Bugfixes:**
+
+  * Fixed vulnerability VE-2025-49794
+  * Fixed vulnerability CVE-2025-49796
+
 .. _v4.23:
 
 4.23
@@ -30,6 +42,18 @@ Changelog
 * **Misc:**
 
   * Set expire time of invite link to 14 days
+
+.. _v4.22.5-tools:
+
+4.22.5 (tools)
+==============
+
+* *Release: 13 October 2025*
+
+* **Bugfixes:**
+
+  * Fixed vulnerability VE-2025-49794
+  * Fixed vulnerability CVE-2025-49796
 
 .. _v4.22.4-tools:
 
