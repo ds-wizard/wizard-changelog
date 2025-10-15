@@ -1,6 +1,22 @@
 Changelog
 *********
 
+.. _v4.23.1-frontend:
+
+4.23.1 (frontend)
+=================
+
+* *Release: 15 October 2025*
+
+* **Bugfixes:**
+
+  * Fixed non-existing entities in KM Editor
+
+* **Security:**
+
+  * Fixed vulnerability VE-2025-49794
+  * Fixed vulnerability CVE-2025-49796
+
 .. _v4.23.1-tools:
 
 4.23.1 (tools)
@@ -8,7 +24,7 @@ Changelog
 
 * *Release: 13 October 2025*
 
-* **Bugfixes:**
+* **Security:**
 
   * Fixed vulnerability VE-2025-49794
   * Fixed vulnerability CVE-2025-49796
@@ -43,6 +59,22 @@ Changelog
 
   * Set expire time of invite link to 14 days
 
+.. _v4.22.1-frontend:
+
+4.22.1 (frontend)
+=================
+
+* *Release: 15 October 2025*
+
+* **Bugfixes:**
+
+  * Fixed non-existing entities in KM Editor
+
+* **Security:**
+
+  * Fixed vulnerability VE-2025-49794
+  * Fixed vulnerability CVE-2025-49796
+
 .. _v4.22.5-tools:
 
 4.22.5 (tools)
@@ -50,7 +82,7 @@ Changelog
 
 * *Release: 13 October 2025*
 
-* **Bugfixes:**
+* **Security:**
 
   * Fixed vulnerability VE-2025-49794
   * Fixed vulnerability CVE-2025-49796
