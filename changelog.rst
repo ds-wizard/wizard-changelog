@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.23.2-frontend:
+
+4.23.2 (frontend)
+=================
+
+* *Release: 21 October 2025*
+
+* **Bugfixes:**
+
+  * Fixed delayed input while typing in Knowledge Model Editor and Knowledge Model Editor preview
+
 .. _v4.23.1-frontend:
 
 4.23.1 (frontend)
@@ -58,6 +69,17 @@ Changelog
 * **Misc:**
 
   * Set expire time of invite link to 14 days
+
+.. _v4.22.2-frontend:
+
+4.22.2 (frontend)
+=================
+
+* *Release: 21 October 2025*
+
+* **Bugfixes:**
+
+  * Fixed delayed input while typing in Knowledge Model Editor and Knowledge Model Editor preview
 
 .. _v4.22.1-frontend:
 
