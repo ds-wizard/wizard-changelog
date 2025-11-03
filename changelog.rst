@@ -1,6 +1,32 @@
 Changelog
 *********
 
+.. _v4.24.0:
+
+4.24.0
+======
+
+* *Release: 4 November 2025*
+
+* **Features:**
+
+  * Added fulltext search to Project
+  * Added Project phase progress bar
+  * Added correct expanding/collapsing to Chapters list in Project
+  * Added fixed position to Phase selection to not scroll with Chapters list
+  * Added cross references to reference related Questions elsewhere in Questionnaire
+  * Added keyboard shortcut cmd/ctrl+enter to all submits
+  * Added description to create migration button in Project Settings
+
+* **Bugfixes:**
+
+  * Fixed Elm virtual DOM
+  * Fixed wrong hover color for SSO login button
+
+* **Misc:**
+
+  * Adjusted alignment of Save button in various Settings
+
 .. _v4.23.2-tools:
 
 4.23.2 (tools)
