@@ -142,7 +142,7 @@ Changelog
 
 * **Security:**
 
-  * Fixed vulnerability VE-2025-49794
+  * Fixed vulnerability CVE-2025-49794
   * Fixed vulnerability CVE-2025-49796
 
 .. _v4.22.5-tools:
@@ -154,7 +154,7 @@ Changelog
 
 * **Security:**
 
-  * Fixed vulnerability VE-2025-49794
+  * Fixed vulnerability CVE-2025-49794
   * Fixed vulnerability CVE-2025-49796
 
 .. _v4.22.4-tools:
