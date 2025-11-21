@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.24.1-frontend:
+
+4.24.1 (frontend)
+=================
+
+* *Release: 21 November 2025*
+
+* **Bugfixes:**
+
+  * No visible changes to users
+
 .. _v4.24.0:
 
 4.24.0
