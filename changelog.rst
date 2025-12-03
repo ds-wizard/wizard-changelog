@@ -1,6 +1,37 @@
 Changelog
 *********
 
+.. _v4.25.0:
+
+4.25.0
+======
+
+* *Release: 2 December 2025*
+
+* **Breaking:**
+
+  * Increased metamodel version for Knowledge Model to 19 (it will not be possible to import Knowledge Models to older DSW versions)
+
+* **Features:**
+
+  * Added client URL to Copy in About modal
+  * Added Guide link to Submission flash message in Documents
+
+* **Bugfixes:**
+
+  * Fixed broken scrolling behavior in Knowledge Model and Project Template selection
+  * Fixed overflow in collapsed item in Questionnaire
+  * Fixed wrong hover color in Integration setup
+  * Fixed missing internal label in Users list
+  * Fixed Submission flash message look
+  * Fixed Document Template format selection for long format names
+
+* **Misc:**
+
+  * Greatly improved speed of Project and Knowledge Model Editor which were sometimes lagging
+  * Various optimizations of database schema to speed up processing of Knowledge Model
+  * Adjusted text on button in User Create to better reflect its functionality
+
 .. _v4.24.1-frontend:
 
 4.24.1 (frontend)
