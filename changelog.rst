@@ -14,23 +14,23 @@ Changelog
 
 * **Features:**
 
-  * Added client URL to Copy in About modal
-  * Added Guide link to Submission flash message in Documents
+  * Added client URL to Copy in the About modal
+  * Added Guide link to the Submission flash message in Documents
 
 * **Bugfixes:**
 
   * Fixed broken scrolling behavior in Knowledge Model and Project Template selection
-  * Fixed overflow in collapsed item in Questionnaire
+  * Fixed overflow in collapsed items in Questionnaires
   * Fixed wrong hover color in Integration setup
-  * Fixed missing internal label in Users list
-  * Fixed Submission flash message look
+  * Fixed missing internal label in the Users list
+  * Fixed appearance of the Submission flash message
   * Fixed Document Template format selection for long format names
 
 * **Misc:**
 
-  * Greatly improved speed of Project and Knowledge Model Editor which were sometimes lagging
-  * Various optimizations of database schema to speed up processing of Knowledge Model
-  * Adjusted text on button in User Create to better reflect its functionality
+  * Improved performance and responsiveness of the Project and Knowledge Model Editors, especially when working with large or complex questionnaires
+  * Optimized database schema to speed up Knowledge Model processing
+  * Adjusted text on the Create User button to better reflect its functionality
 
 .. _v4.24.1-frontend:
 
