@@ -32,6 +32,17 @@ Changelog
   * Optimized database schema to speed up Knowledge Model processing
   * Adjusted text on the Create User button to better reflect its functionality
 
+.. _v4.24.2-frontend:
+
+4.24.2 (frontend)
+=================
+
+* *Release: 4 December 2025*
+
+* **Bugfixes:**
+
+  * Fixed performance and responsiveness of Project with large or complex questionnaires
+
 .. _v4.24.1-frontend:
 
 4.24.1 (frontend)
