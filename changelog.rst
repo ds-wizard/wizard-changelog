@@ -1,6 +1,19 @@
 Changelog
 *********
 
+.. _v4.25.1-frontend:
+
+4.25.1 (frontend)
+=================
+
+* *Release: 8 December 2025*
+
+* **Bugfixes:**
+
+  * Fixed missing primary color on several links
+  * Fixed saving Document Template Editor settings would redirect to the wrong tab if Document ID was changed
+  * Fixed Document Template format selection in Project would overflow when the text was too long
+
 .. _v4.25.0:
 
 4.25.0
