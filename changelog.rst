@@ -54,7 +54,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fixed performance and responsiveness of Project with large or complex questionnaires
+  * Improved performance and responsiveness of Project with large or complex questionnaires
 
 .. _v4.24.1-frontend:
 
