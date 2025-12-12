@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.25.1-backend:
+
+4.25.1 (backend)
+================
+
+* *Release: 12 December 2025*
+
+* **Bugfixes:**
+
+  * Fixed Knowledge Model events migration
+
 .. _v4.25.1-frontend:
 
 4.25.1 (frontend)
