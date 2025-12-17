@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.25.2-frontend:
+
+4.25.2 (frontend)
+=================
+
+* *Release: 17 December 2025*
+
+* **Bugfixes:**
+
+  * Fixed browser extensions (e.g., Grammarly) could break the application
+
 .. _v4.25.1-backend:
 
 4.25.1 (backend)
@@ -55,6 +66,17 @@ Changelog
   * Improved performance and responsiveness of the Project and Knowledge Model Editors, especially when working with large or complex questionnaires
   * Optimized database schema to speed up Knowledge Model processing
   * Adjusted text on the Create User button to better reflect its functionality
+
+.. _v4.24.3-frontend:
+
+4.24.3 (frontend)
+=================
+
+* *Release: 17 December 2025*
+
+* **Bugfixes:**
+
+  * Fixed browser extensions (e.g., Grammarly) could break the application
 
 .. _v4.24.2-frontend:
 
