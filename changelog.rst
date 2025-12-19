@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.25.1-tools:
+
+4.25.1 (tools)
+==============
+
+* *Release: 19 December 2025*
+
+* **Bugfixes:**
+
+  * Fixed Document would sometimes not be generated in the Document Template Editor when used with the Knowledge Model Editor
+
 .. _v4.25.2-frontend:
 
 4.25.2 (frontend)
