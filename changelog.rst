@@ -1,6 +1,32 @@
 Changelog
 *********
 
+.. _v4.26.0:
+
+4.26.0
+======
+
+* *Release: 23 January 2026*
+
+* **Features:**
+
+  * Increased Document Template metamodel version to 17.1, enabling configurable instance properties for Document Templates
+  * Added copy button to Integration test response
+  * Added Knowledge Model and Document Template metamodel information to the info endpoint
+  * Added pagination to version history in Projects
+  * Added show/hide password eye icon to Create User
+
+* **Bugfixes:**
+
+  * Fixed Project Action list would be empty when actions were limited by the selected Knowledge Model
+  * Fixed moving items in the Knowledge Model Editor would affect the opened Question when edited by multiple users
+  * Fixed inability to delete a Document Template Editor when a Preview Document had been created
+
+* **Misc:**
+  
+  * Renamed Questionnaire to Project in the API
+  * Added padding to the Knowledge Model Editor tree
+
 .. _v4.25.1-tools:
 
 4.25.1 (tools)
