@@ -6,7 +6,7 @@ Changelog
 4.26.0
 ======
 
-* *Release: 23 January 2026*
+* *Release: 6 January 2026*
 
 * **Features:**
 
