@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.26.1-tools:
+
+4.26.1 (tools)
+==============
+
+* *Release: 12 January 2026*
+
+* **Bugfixes:**
+
+  * Fixed fetching Submissions for Document generation
+
 .. _v4.26.0:
 
 4.26.0
