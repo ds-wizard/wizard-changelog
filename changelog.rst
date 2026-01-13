@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.26.1-backend:
+
+4.26.1 (backend)
+================
+
+* *Release: 13 January 2026*
+
+* **Bugfixes:**
+
+  * Fixed empty Project Importers list would appear when no Importers were present
+
 .. _v4.26.1-tools:
 
 4.26.1 (tools)
@@ -29,7 +40,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fixed Project Action list would be empty when actions were limited by the selected Knowledge Model
+  * Fixed Project Importers list would be empty when actions were limited by the selected Knowledge Model
   * Fixed moving items in the Knowledge Model Editor would affect the opened Question when edited by multiple users
   * Fixed inability to delete a Document Template Editor when a Preview Document had been created
 
