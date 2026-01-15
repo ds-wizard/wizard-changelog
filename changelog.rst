@@ -1,6 +1,15 @@
 Changelog
 *********
 
+.. _v4.26.1-frontend:
+
+4.26.1 (frontend)
+=================
+
+* *Release: 15 January 2026*
+
+  * No visible changes to users
+
 .. _v4.26.1-backend:
 
 4.26.1 (backend)
