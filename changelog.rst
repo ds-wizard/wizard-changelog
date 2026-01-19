@@ -19,7 +19,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fixed empty Project Importers list would appear when no Importers were present
+  * Fixed empty Project Importers dropdown being displayed when no compatible Importers exist for the selected Knowledge Model
 
 .. _v4.26.1-tools:
 
@@ -49,7 +49,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fixed Project Importers list would be empty when actions were limited by the selected Knowledge Model
+  * Fixed empty Project Importers dropdown being displayed when no compatible Importers exist for the selected Knowledge Model
   * Fixed moving items in the Knowledge Model Editor would affect the opened Question when edited by multiple users
   * Fixed inability to delete a Document Template Editor when a Preview Document had been created
 
