@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.26.2-backend:
+
+4.26.2 (backend)
+================
+
+* *Release: 27 January 2026*
+
+* **Bugfixes:**
+
+  * Fixed missing metamodel update in Knowledge Model migration
+
 .. _v4.26.1-frontend:
 
 4.26.1 (frontend)
@@ -57,6 +68,17 @@ Changelog
   
   * Renamed Questionnaire to Project in the API
   * Added padding to the Knowledge Model Editor tree
+
+.. _v4.25.2-backend:
+
+4.25.2 (backend)
+================
+
+* *Release: 27 January 2026*
+
+* **Bugfixes:**
+
+  * Fixed missing metamodel update in Knowledge Model migration
 
 .. _v4.25.1-tools:
 
