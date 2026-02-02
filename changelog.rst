@@ -1,6 +1,37 @@
 Changelog
 *********
 
+.. _v4.27.0:
+
+4.27.0
+======
+
+* *Release: 3 February 2026*
+
+* **Features:**
+
+  * Added support for Plugins (experimental feature)
+  * Added API endpoint for submitting project events through HTTP call
+  * Added check in Project Importer to submit answer replies only when a corresponding answer exists
+
+* **Bugfixes:**
+
+  * Fixed focus behavior in typehint search inputs (Knowledge Model and Document Template selection)
+  * Fixed typehint dropdown formatting
+  * Fixed Markdown list rendering
+  * Fixed formatting of Project creation with preselected Knowledge Model
+  * Fixed formatting of Project Tag selection in Project Settings
+  * Fixed Based On menu would close when opened while focused on Knowledge Model or Document Template ID field
+  * Fixed missing space next to the lock icon in editor notes in Project
+  * Fixed handling failures while generating a document in case the document is deleted during the process
+  * Fixed duplicate configuration arguments being passed to Pandoc for document transformation (e.g., HTML to Word)
+  * Fixed repeated file and asset cleanup when updating Document Template Editor via TDK
+
+* **Misc:**
+
+  * Changed Locale primary key from ID to UUID
+  * Optimized AWS Lambda package size for Python tooling
+
 .. _v4.26.2-backend:
 
 4.26.2 (backend)
