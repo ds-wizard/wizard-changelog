@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.27.1-backend:
+
+4.27.1 (backend)
+================
+
+* *Release: 27 February 2026*
+
+* **Bugfixes:**
+
+  * Fixed new Admin could not toggle Project Template in Project Settings
+
 .. _v4.27.0:
 
 4.27.0
