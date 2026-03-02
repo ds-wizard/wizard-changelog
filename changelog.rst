@@ -1,6 +1,23 @@
 Changelog
 *********
 
+.. _v4.28.0:
+
+4.28.0
+======
+
+* *Release: 3 March 2026*
+
+* **Features:**
+
+  * Added force Knowledge Model delete
+
+* **Misc:**
+
+  * Changed Primary Identifier from ID to UUID for Document Template
+  * Changed Primary Identifier from ID to UUID for Knowledge Model Package
+  * Removed Project Importer (replaced by plugin)
+
 .. _v4.27.1-backend:
 
 4.27.1 (backend)
