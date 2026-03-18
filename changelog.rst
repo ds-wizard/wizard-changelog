@@ -1,6 +1,39 @@
 Changelog
 *********
 
+.. _v4.28.2-tools:
+
+4.28.2 (tools)
+==============
+
+* *Release: 18 March 2026*
+
+* **Bugfixes:**
+
+  * Fix creating document template package via TDK
+
+.. _v4.28.1-tools:
+
+4.28.1 (tools)
+==============
+
+* *Release: 17 March 2026*
+
+* **Bugfixes:**
+
+  * Fix cell construction in `excel` step of document templates in Document Worker
+
+.. _v4.28.1-backend:
+
+4.28.1 (backend)
+================
+
+* *Release: 16 March 2026*
+
+* **Bugfixes:**
+
+  * No visible changes to users
+
 .. _v4.28.0:
 
 4.28.0
@@ -17,6 +50,29 @@ Changelog
   * Changed Primary Identifier from ID to UUID for Document Template
   * Changed Primary Identifier from ID to UUID for Knowledge Model Package
   * Removed Project Importer (replaced by plugin)
+
+.. _v4.27.1-tools:
+
+4.27.1 (tools)
+==============
+
+* *Release: 17 March 2026*
+
+* **Bugfixes:**
+
+  * Fix cell construction in `excel` step of document templates in Document Worker
+
+
+.. _v4.27.2-backend:
+
+4.27.2 (backend)
+================
+
+* *Release: 16 March 2026*
+
+* **Bugfixes:**
+
+  * Fixed new Admin could not toggle Project Template in Project Settings
 
 .. _v4.27.1-backend:
 
