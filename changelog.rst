@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.28.4-tools:
+
+4.28.4 (tools)
+==============
+
+* *Release: 25 March 2026*
+
+* **Bugfixes:**
+
+  * Fixed HTML in mails
+
 .. _v4.28.3-tools:
 
 4.28.3 (tools)
