@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.28.3-tools:
+
+4.28.3 (tools)
+==============
+
+* *Release: 25 March 2026*
+
+* **Security:**
+
+  * HTML tags are now auto-escaped
+
 .. _v4.28.2-tools:
 
 4.28.2 (tools)
@@ -10,7 +21,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fix creating document template package via TDK
+  * Fixed creating Document Template package via TDK
 
 .. _v4.28.1-tools:
 
@@ -21,7 +32,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fix cell construction in `excel` step of document templates in Document Worker
+  * Fixed cell construction in `excel` step of Document Templates in Document Worker
 
 .. _v4.28.1-backend:
 
@@ -60,7 +71,7 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fix cell construction in `excel` step of document templates in Document Worker
+  * Fixed cell construction in `excel` step of Document Templates in Document Worker
 
 
 .. _v4.27.2-backend:
