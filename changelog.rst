@@ -1,6 +1,34 @@
 Changelog
 *********
 
+4.29
+====
+
+* *Release: 7 April 2026*
+
+* **Breaking:**
+
+  * Increased metamodel version for Document Template to 18.0 (all document templates need to be upgraded manually)
+  * Increased metamodel version for Knowledge Model to 20 (it will not be possible to import knowledge models to older DSW versions)
+
+* **Features:**
+
+  * Added Plugin Integration type
+  * Added Plugin versions to the About modal
+  * Added Plugin guide link to Settings
+
+* **Bugfixes:**
+
+  * Fixed broken filtering of Projects by Knowledge Model in the API
+  * Fixed adding another Annotation would focus the previous Annotation
+
+* **Misc:**
+
+  * Optimized Project performance
+  * Updated Document Context according to previous refactoring changes
+  * Removed legacy API Integration
+  * Removed Widget Integration
+
 .. _v4.28.4-tools:
 
 4.28.4 (tools)
