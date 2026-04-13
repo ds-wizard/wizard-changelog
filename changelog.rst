@@ -11,7 +11,7 @@ Changelog
 * **Breaking:**
 
   * Increased metamodel version for Document Template to 18.0 (all document templates need to be upgraded manually)
-  * Increased metamodel version for Knowledge Model to 20 (it will not be possible to import knowledge models to older DSW versions)
+  * Increased metamodel version for Knowledge Model to 20 (all pending Knowledge Model migrations need to be completed before updating, it will not be possible to import knowledge models to older DSW versions)
 
 * **Features:**
 
