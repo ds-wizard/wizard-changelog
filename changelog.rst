@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.29.1-frontend:
+
+4.29.1 (frontend)
+=================
+
+* *Release: 11 April 2026*
+
+* **Bugfixes:**
+
+  * No visible changes to users
+
 .. _v4.29.0:
 
 4.29.0
