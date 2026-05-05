@@ -1,6 +1,23 @@
 Changelog
 *********
 
+.. _v4.30.0:
+
+4.30.0
+======
+
+* *Release: 5 May 2026*
+
+* **Features:**
+
+  * Added rich text field input to Knowledge Model
+
+* **Bugfixes:**
+
+  * Fixed Activation link would show error Activation link is no longer valid when clicked multiple times from email
+  * Fixed Project creation would result in an error if the Create button was clicked too quickly
+  * Fixed Fontconfig error with WeasyPrint during document generation
+
 .. _v4.29.2-frontend:
 
 4.29.2 (frontend)
