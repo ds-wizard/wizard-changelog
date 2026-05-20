@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.30.1-tools:
+
+4.30.1 (tools)
+==============
+
+* *Release: 20 May 2026*
+
+* **Bugfixes:**
+
+  * Fixed potential incorrect styling applied in emails
+
 .. _v4.30.0:
 
 4.30.0
@@ -17,6 +28,17 @@ Changelog
   * Fixed Activation link would show error Activation link is no longer valid when clicked multiple times from email
   * Fixed Project creation would result in an error if the Create button was clicked too quickly
   * Fixed Fontconfig error with WeasyPrint during document generation
+
+.. _v4.29.1-tools:
+
+4.29.1 (tools)
+==============
+
+* *Release: 20 May 2026*
+
+* **Bugfixes:**
+
+  * Fixed potential incorrect styling applied in emails
 
 .. _v4.29.2-frontend:
 
