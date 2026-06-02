@@ -1,6 +1,38 @@
 Changelog
 *********
 
+.. _v4.31.0:
+
+4.31.0
+======
+
+* *Release: 2 June 2026*
+
+* **Features:**
+
+  * Added Knowledge Model comparison
+  * Added configurable expiration times for login and email links (invites, password resets, etc.)
+  * Added question title to assigned comment email notifications
+  * Added controls for internal login and external registration
+  * Added linking and unlinking of external identities
+  * Added manual completion of missing details for external signup
+  * Added timezone filter for templates
+
+* **Bugfixes:**
+
+  * Fixed Project would not scroll to assigned comment if the user was not logged in when opening it from an email
+  * Fixed long name would overflow in user profile
+  * Fixed Integration response when item template rendered empty
+  * Fixed broken layout in Project migration
+  * Fixed chapter hyperlinks in historic version preview in Project
+  * Fixed collapsing in historic version preview in Project
+  * Fixed Submission Service would crash when the author had been deleted
+
+* **Misc:**
+
+  * Updated to Python 3.14
+  * Added validation to only allow UUIDs in directory IDs and client IDs in Microsoft OpenID configuration
+
 .. _v4.30.1-tools:
 
 4.30.1 (tools)
