@@ -1,6 +1,28 @@
 Changelog
 *********
 
+.. _v4.31.2-backend:
+
+4.31.2 (backend)
+================
+
+* *Release: 8 June 2026*
+
+* **Bugfixes:**
+
+  * Fixed OpenID Initialization
+
+.. _v4.31.1-backend:
+
+4.31.1 (backend)
+================
+
+* *Release: 8 June 2026*
+
+* **Bugfixes:**
+
+  * Fixed OpenID on Bootstrap endpoint
+
 .. _v4.31.0:
 
 4.31.0
@@ -32,6 +54,17 @@ Changelog
 
   * Updated to Python 3.14
   * Added validation to only allow UUIDs in directory IDs and client IDs in Microsoft OpenID configuration
+
+.. _v4.30.2-tools:
+
+4.30.2 (tools)
+==============
+
+* *Release: 20 May 2026*
+
+* **Bugfixes:**
+
+  * No visible changes to users
 
 .. _v4.30.1-tools:
 
