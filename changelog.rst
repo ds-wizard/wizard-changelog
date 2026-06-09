@@ -53,6 +53,7 @@ Changelog
 * **Misc:**
 
   * Updated to Python 3.14
+  * Updated Document Template Metamodel to 18.1
   * Added validation to only allow UUIDs in directory IDs and client IDs in Microsoft OpenID configuration
 
 .. _v4.30.2-tools:
