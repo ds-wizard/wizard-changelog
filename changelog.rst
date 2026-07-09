@@ -1,6 +1,25 @@
 Changelog
 *********
 
+.. _v4.32.0:
+
+4.32.0
+======
+
+* *Release: 7 June 2026*
+
+* **Features:**
+
+  * Added refresh button to Document Template Editor preview
+
+* **Bugfixes:**
+
+  * Fixed switching between Projects directly from custom menu links
+  * Fixed missing ellipsis in the Knowledge Model list
+  * Fixed error in Comments tab if access to comments was lost while the Project was open
+  * Fixed multiple user icons would appear when the same Project was opened in multiple tabs
+  * Fixed TDK PUT link to the new Document Template Editor
+
 .. _v4.31.2-backend:
 
 4.31.2 (backend)
