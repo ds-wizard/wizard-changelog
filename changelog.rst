@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.32.1-frontend:
+
+4.32.1 (frontend)
+=================
+
+* *Release: 20 June 2026*
+
+* **Bugfixes:**
+
+  * Fixed wrongly displayed connected accounts in the User Settings
+
 .. _v4.32.0:
 
 4.32.0
