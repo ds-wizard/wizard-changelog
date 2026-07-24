@@ -1,12 +1,23 @@
 Changelog
 *********
 
+.. _v4.32.1-backend:
+
+4.32.1 (backend)
+================
+
+* *Release: 21 July 2026*
+
+* **Bugfixes:**
+
+  * Fixed incorrect login validation on OpenID flow
+
 .. _v4.32.1-frontend:
 
 4.32.1 (frontend)
 =================
 
-* *Release: 20 June 2026*
+* *Release: 20 July 2026*
 
 * **Bugfixes:**
 
@@ -17,7 +28,7 @@ Changelog
 4.32.0
 ======
 
-* *Release: 7 June 2026*
+* *Release: 7 July 2026*
 
 * **Features:**
 
@@ -30,6 +41,17 @@ Changelog
   * Fixed error in Comments tab if access to comments was lost while the Project was open
   * Fixed multiple user icons would appear when the same Project was opened in multiple tabs
   * Fixed TDK PUT link to the new Document Template Editor
+
+.. _v4.31.3-backend:
+
+4.31.3 (backend)
+================
+
+* *Release: 21 July 2026*
+
+* **Bugfixes:**
+
+  * Fixed incorrect login validation on OpenID flow
 
 .. _v4.31.2-backend:
 
