@@ -1,6 +1,35 @@
 Changelog
 *********
 
+.. _v4.33.0:
+
+4.33.0
+======
+
+* *Release: 4 August 2026*
+
+* **Features:**
+
+  * Added customizable User Roles
+  * Added localization to Knowledge Models
+  * Added rich Markdown editor to Knowledge Model Editor Settings
+  * Added warning about using unconfigured secrets in the Knowledge Model Editor
+  * Added chapter number indication to Cross References
+  * Added collapsible chapters to questionnaire tree navigation
+  * Added copy link to Comments in Projects
+  * Added reordering of custom menu links
+  * Added information when content is hidden by View settings
+
+* **Bugfixes:**
+
+  * Fixed Cross Reference would be empty when the referenced Question was filtered by Question Tag
+  * Fixed Organization Settings could not be saved with an empty description
+  * Fixed incorrect responsiveness in Project Settings
+  * Fixed several issues in Knowledge Model Editor Preview Save Values functionality
+  * Fixed Markdown strikethrough and paragraph rendering in Documents
+  * Fixed missing escaping in Integration response preview
+  * Fixed broken layout in Assigned Comments
+
 .. _v4.32.1-backend:
 
 4.32.1 (backend)
@@ -47,7 +76,7 @@ Changelog
 4.31.3 (backend)
 ================
 
-* *Release: 21 July 2026*
+* *Release: 21 June 2026*
 
 * **Bugfixes:**
 
