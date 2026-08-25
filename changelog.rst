@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.33.4-backend:
+
+4.33.4 (backend)
+================
+
+* *Release: 23 August 2026*
+
+* **Bugfixes:**
+
+  * No visible changes to users
+
 .. _v4.33.1-frontend:
 
 4.33.1 (frontend)
