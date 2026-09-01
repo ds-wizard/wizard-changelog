@@ -1,6 +1,46 @@
 Changelog
 *********
 
+.. _v4.34.0:
+
+4.34.0
+======
+
+* *Release: 1 September 2026*
+
+* **Features:**
+
+  * Removed auto-save from Project Sharing options and added a Save button
+  * Added Document Template "update available" indicators
+  * Added UUID with copy button to Knowledge Model Comparison
+  * Added custom reply indication to Integration Questions
+  * Added createdAt information to Knowledge Model and Document Template detail
+  * Added full Knowledge Model and Document Template IDs to select inputs
+  * Added affiliation next to User names in Project Sharing user selection
+
+* **Bugfixes:**
+
+  * Fixed broken UI of the Files list
+  * Fixed misleading string in Authentication Settings
+  * Fixed List of Items fields did not have unique names and IDs in Projects
+  * Fixed Knowledge Model Editor updatedAt would not be updated after editor changes
+  * Fixed handling and validation of worker configuration (mailer, document worker)
+  * Fixed Document Template with :latest could not be imported from the registry
+  * Fixed some characters would break typehints in Integration Questions
+  * Fixed Project would be broken if migrated to a Knowledge Model with removed last phase
+  * Fixed new versions of Document Templates, Knowledge Models, or Locales could not be imported when the instance limit was reached
+  * Fixed extra horizontal line in Plugin settings
+  * Fixed wrong error message when importing a Knowledge Model that already existed
+  * Fixed HTTP 500 error on OpenID login callback when token exchange failed
+
+* **Misc:**
+
+  * Hid deleted items in the Knowledge Model Editor when they were added in the same version
+  * Simplified Project migration
+  * Improved Project Template selection
+  * Improved mechanism for sanitizing HTML and Markdown in document templates
+  * Improved worker queueing mechanism for better performance
+
 .. _v4.33.4-backend:
 
 4.33.4 (backend)
