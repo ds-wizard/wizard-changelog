@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.34.1-frontend:
+
+4.34.1 (frontend)
+=================
+
+* *Release: 8 September 2026*
+
+* **Bugfixes:**
+
+  * Fixed user without permissions could not use Document Submission in Project
+
 .. _v4.34.0:
 
 4.34.0
