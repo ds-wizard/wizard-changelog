@@ -1,6 +1,18 @@
 Changelog
 *********
 
+.. _v4.34.1-tools:
+
+4.34.1 (tools)
+==============
+
+* *Release: 13 September 2026*
+
+* **Bugfixes:**
+
+  * Fixed vulnerability CVE-2026-63073
+  * Fixed vulnerability CVE-2026-75803
+
 .. _v4.34.1-frontend:
 
 4.34.1 (frontend)
@@ -51,6 +63,18 @@ Changelog
   * Improved Project Template selection
   * Improved mechanism for sanitizing HTML and Markdown in document templates
   * Improved worker queueing mechanism for better performance
+
+.. _v4.33.1-tools:
+
+4.33.1 (tools)
+==============
+
+* *Release: 13 September 2026*
+
+* **Bugfixes:**
+
+  * Fixed vulnerability CVE-2026-63073
+  * Fixed vulnerability CVE-2026-75803
 
 .. _v4.33.4-backend:
 
