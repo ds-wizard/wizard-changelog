@@ -76,6 +76,17 @@ Changelog
   * Fixed vulnerability CVE-2026-63073
   * Fixed vulnerability CVE-2026-75803
 
+.. _v4.33.2-frontend:
+
+4.33.2 (frontend)
+=================
+
+* *Release: 8 September 2026*
+
+* **Bugfixes:**
+
+  * Fixed user without permissions could not use Document Submission in Project
+
 .. _v4.33.4-backend:
 
 4.33.4 (backend)
