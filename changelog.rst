@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.34.2-frontend:
+
+4.34.2 (frontend)
+=================
+
+* *Release: 21 September 2026*
+
+* **Bugfixes:**
+
+  * No visible changes to users
+
 .. _v4.34.1-tools:
 
 4.34.1 (tools)
@@ -63,6 +74,17 @@ Changelog
   * Improved Project Template selection
   * Improved mechanism for sanitizing HTML and Markdown in document templates
   * Improved worker queueing mechanism for better performance
+
+.. _v4.33.3-frontend:
+
+4.33.3 (frontend)
+=================
+
+* *Release: 21 September 2026*
+
+* **Bugfixes:**
+
+  * No visible changes to users
 
 .. _v4.33.1-tools:
 
