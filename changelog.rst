@@ -11,6 +11,7 @@ Changelog
 * **Features:**
 
   * Added an unanswered questions panel to the Questionnaire
+  * Added translations for Document Templates
   * Added document template rendering to the Template Development Kit
 
 * **Bugfixes:**
