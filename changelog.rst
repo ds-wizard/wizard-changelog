@@ -1,6 +1,33 @@
 Changelog
 *********
 
+.. _v4.35.0:
+
+4.35.0
+======
+
+* *Release: 6 October 2026*
+
+* **Features:**
+
+  * Added an unanswered questions panel to the Questionnaire
+  * Added document template rendering to the Template Development Kit
+
+* **Bugfixes:**
+
+  * Fixed custom roles could not be localized
+  * Fixed Assign Comment would be displayed under the Questionnaire on small screens
+  * Fixed an Access Denied error in document preview when changing tabs during generation
+  * Fixed forms that could not be submitted with Cmd+Enter
+  * Fixed the default role not being selected when creating a user
+  * Fixed an incorrect error message when opening a non-existent user detail
+  * Fixed roles in User Invite not being ordered alphabetically
+
+* **Misc:**
+
+  * Removed Questionnaire Feedback settings
+  * Unified information about incomplete forms in Settings
+
 .. _v4.34.2-frontend:
 
 4.34.2 (frontend)
