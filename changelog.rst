@@ -20,6 +20,8 @@ Changelog
   * Fixed an Access Denied error in document preview when changing tabs during generation
   * Fixed forms that could not be submitted with Cmd+Enter
   * Fixed the default role not being selected when creating a user
+  * Fixed an incorrect error message when opening a non-existent user detail
+  * Fixed roles in User Invite not being ordered alphabetically
 
 * **Misc:**
 
