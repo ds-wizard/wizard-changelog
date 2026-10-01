@@ -11,7 +11,6 @@ Changelog
 * **Features:**
 
   * Added an unanswered questions panel to the Questionnaire
-  * Added an optional maDMP API adapter for the RDA DMP Common Standard
   * Added document template rendering to the Template Development Kit
 
 * **Bugfixes:**
