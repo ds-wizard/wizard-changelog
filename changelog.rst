@@ -6,7 +6,7 @@ Changelog
 4.35.0
 ======
 
-* *Release: pending*
+* *Release: 6 October 2026*
 
 * **Features:**
 
