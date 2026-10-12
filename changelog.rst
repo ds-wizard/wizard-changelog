@@ -1,6 +1,28 @@
 Changelog
 *********
 
+.. _v4.35.2-backend:
+
+4.35.2 (backend)
+================
+
+* *Release: 12 October 2026*
+
+* **Bugfixes:**
+
+  * Fixed roles seeding in initial database setup
+
+.. _v4.35.1-backend:
+
+4.35.1 (backend)
+================
+
+* *Release: 12 October 2026*
+
+* **Bugfixes:**
+
+  * No visible changes to users
+
 .. _v4.35.0:
 
 4.35.0
