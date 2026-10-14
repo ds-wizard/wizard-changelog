@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v4.35.1-tools:
+
+4.35.1 (tools)
+==============
+
+* *Release: 14 October 2026*
+
+* **Security:**
+
+  * Fixed vulnerability CVE-2026-19445
+
 .. _v4.35.2-backend:
 
 4.35.2 (backend)
@@ -49,6 +60,17 @@ Changelog
 
   * Removed Questionnaire Feedback settings
   * Unified information about incomplete forms in Settings
+
+.. _v4.34.2-tools:
+
+4.34.2 (tools)
+==============
+
+* *Release: 14 October 2026*
+
+* **Security:**
+
+  * Fixed vulnerability CVE-2026-19445
 
 .. _v4.34.2-frontend:
 
