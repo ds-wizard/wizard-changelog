@@ -1,9 +1,9 @@
 Changelog
 *********
 
-.. _v5.0.0:
+.. _v5.0:
 
-5.0.0
+5.0
 =====
 
 * *Release: 4 November 2026*
@@ -66,9 +66,9 @@ Changelog
 
   * No visible changes to users
 
-.. _v4.35.0:
+.. _v4.35:
 
-4.35.0
+4.35
 ======
 
 * *Release: 6 October 2026*
@@ -138,9 +138,9 @@ Changelog
 
   * Fixed user without permissions could not use Document Submission in Project
 
-.. _v4.34.0:
+.. _v4.34:
 
-4.34.0
+4.34
 ======
 
 * *Release: 1 September 2026*
@@ -267,9 +267,9 @@ Changelog
 
   * No visible changes to users
 
-.. _v4.33.0:
+.. _v4.33:
 
-4.33.0
+4.33
 ======
 
 * *Release: 4 August 2026*
@@ -318,9 +318,9 @@ Changelog
 
   * Fixed wrongly displayed connected accounts in the User Settings
 
-.. _v4.32.0:
+.. _v4.32:
 
-4.32.0
+4.32
 ======
 
 * *Release: 7 July 2026*
@@ -370,9 +370,9 @@ Changelog
 
   * Fixed OpenID on Bootstrap endpoint
 
-.. _v4.31.0:
+.. _v4.31:
 
-4.31.0
+4.31
 ======
 
 * *Release: 2 June 2026*
@@ -425,9 +425,9 @@ Changelog
 
   * Fixed potential incorrect styling applied in emails
 
-.. _v4.30.0:
+.. _v4.30:
 
-4.30.0
+4.30
 ======
 
 * *Release: 5 May 2026*
@@ -475,9 +475,9 @@ Changelog
 
   * No visible changes to users
 
-.. _v4.29.0:
+.. _v4.29:
 
-4.29.0
+4.29
 ======
 
 * *Release: 9 April 2026*
@@ -560,9 +560,9 @@ Changelog
 
   * No visible changes to users
 
-.. _v4.28.0:
+.. _v4.28:
 
-4.28.0
+4.28
 ======
 
 * *Release: 3 March 2026*
@@ -611,9 +611,9 @@ Changelog
 
   * Fixed new Admin could not toggle Project Template in Project Settings
 
-.. _v4.27.0:
+.. _v4.27:
 
-4.27.0
+4.27
 ======
 
 * *Release: 3 February 2026*
@@ -684,9 +684,9 @@ Changelog
 
   * Fixed fetching Submissions for Document generation
 
-.. _v4.26.0:
+.. _v4.26:
 
-4.26.0
+4.26
 ======
 
 * *Release: 6 January 2026*
@@ -767,9 +767,9 @@ Changelog
   * Fixed saving Document Template Editor settings would redirect to the wrong tab if Document ID was changed
   * Fixed Document Template format selection in Project would overflow when the text was too long
 
-.. _v4.25.0:
+.. _v4.25:
 
-4.25.0
+4.25
 ======
 
 * *Release: 2 December 2025*
@@ -831,9 +831,9 @@ Changelog
 
   * No visible changes to users
 
-.. _v4.24.0:
+.. _v4.24:
 
-4.24.0
+4.24
 ======
 
 * *Release: 4 November 2025*
