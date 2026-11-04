@@ -1,6 +1,38 @@
 Changelog
 *********
 
+.. _v5.0.0:
+
+5.0.0
+=====
+
+* *Release: 4 November 2026*
+
+* **Breaking:**
+
+  * Increased metamodel version for Document Template to 19.0 (all document templates need to be upgraded manually)
+  * Updated API specifications
+  * Updated OpenID callback and logout URLs
+  * Updated custom interface and email translations for the new translation system
+
+* **Features:**
+
+  * Added User Groups
+  * Added WCAG AA including full keyboard control
+  * Added more detailed permissions
+  * Added deletion previews for Knowledge Models and Document Templates
+  * Added Document Templates force delete
+  * Reworked Application Translations and added separate management of Email Translations
+
+* **Bugfixes:**
+
+  * Fixed downloading files with non-ASCII names
+  * Fixed sorting Knowledge Model Editors by name
+
+* **Misc:**
+
+  * Reorganized Settings
+
 .. _v4.35.1-tools:
 
 4.35.1 (tools)
