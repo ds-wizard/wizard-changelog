@@ -13,6 +13,7 @@ Changelog
   * Increased metamodel version for Document Template to 19.0 (all document templates need to be upgraded manually)
   * Updated API specifications
   * Updated OpenID callback and logout URLs
+  * Existing Registry users must reset their password before signing in after the upgrade
   * Updated custom interface and email translations for the new translation system
 
 * **Features:**
