@@ -10,19 +10,19 @@ Changelog
 
 * **Bugfixes:**
 
-  * Fixed redirects from old Project and editor links
-  * Fixed loading items with UUIDv7 identifiers
-  * Fixed unintended Document creation when pressing Enter in the Document Template selector
-  * Fixed missing action buttons when deleting Knowledge Model and Document Template Editors
-  * Fixed an incorrect deletion warning when returning from Documents to the Questionnaire
-  * Fixed duplicate password validation messages
-  * Fixed HTML in Login Info settings being escaped when saving
-  * Fixed opening the Document Template Editor file list on smaller screens
-  * Fixed renaming Document Template files with an empty name
-  * Fixed dropdowns in dialogs opening away from their field
+  * Fixed redirects from old Project and editor URLs
+  * Fixed errors when loading data with newly generated IDs
+  * Fixed documents being created when pressing Enter in the Document Template selector
+  * Fixed missing buttons in Knowledge Model and Document Template Editor delete dialogs
+  * Fixed an incorrect deletion warning in the Questionnaire
+  * Fixed duplicate password error messages
+  * Fixed HTML being escaped in Login Info settings
+  * Fixed the Document Template Editor file list not opening on smaller screens
+  * Fixed empty file names being accepted in the Document Template Editor
+  * Fixed dropdown positioning in dialogs
   * Fixed unreadable search buttons in the Document Template Editor in dark mode
-  * Fixed missing List of Items borders in dark mode
-  * Fixed spacing around horizontal rules in Markdown
+  * Fixed List of Items borders in dark mode
+  * Fixed horizontal rule spacing in Markdown
 
 .. _v5.0:
 
