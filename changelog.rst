@@ -1,6 +1,29 @@
 Changelog
 *********
 
+.. _v5.0.1-frontend:
+
+5.0.1 (frontend)
+================
+
+* *Release: 12 November 2026*
+
+* **Bugfixes:**
+
+  * Fixed redirects from old Project and editor links
+  * Fixed loading items with UUIDv7 identifiers
+  * Fixed unintended Document creation when pressing Enter in the Document Template selector
+  * Fixed missing action buttons when deleting Knowledge Model and Document Template Editors
+  * Fixed an incorrect deletion warning when returning from Documents to the Questionnaire
+  * Fixed duplicate password validation messages
+  * Fixed HTML in Login Info settings being escaped when saving
+  * Fixed opening the Document Template Editor file list on smaller screens
+  * Fixed renaming Document Template files with an empty name
+  * Fixed dropdowns in dialogs opening away from their field
+  * Fixed unreadable search buttons in the Document Template Editor in dark mode
+  * Fixed missing List of Items borders in dark mode
+  * Fixed spacing around horizontal rules in Markdown
+
 .. _v5.0:
 
 5.0
