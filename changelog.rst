@@ -12,6 +12,29 @@ Changelog
 
   * Fixed save errors when changing integration types in the Knowledge Model Editor
 
+.. _v5.0.1-frontend:
+
+5.0.1 (frontend)
+================
+
+* *Release: 12 November 2026*
+
+* **Bugfixes:**
+
+  * Fixed redirects from old Project and editor URLs
+  * Fixed errors when loading data with newly generated IDs
+  * Fixed documents being created when pressing Enter in the Document Template selector
+  * Fixed missing buttons in Knowledge Model and Document Template Editor delete dialogs
+  * Fixed an incorrect deletion warning in the Questionnaire
+  * Fixed duplicate password error messages
+  * Fixed HTML being escaped in Login Info settings
+  * Fixed the Document Template Editor file list not opening on smaller screens
+  * Fixed empty file names being accepted in the Document Template Editor
+  * Fixed dropdown positioning in dialogs
+  * Fixed unreadable search buttons in the Document Template Editor in dark mode
+  * Fixed List of Items borders in dark mode
+  * Fixed horizontal rule spacing in Markdown
+
 .. _v5.0:
 
 5.0
