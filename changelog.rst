@@ -1,6 +1,17 @@
 Changelog
 *********
 
+.. _v5.0.2-frontend:
+
+5.0.2 (frontend)
+================
+
+* *Release: 13 November 2026*
+
+* **Bugfixes:**
+
+  * Fixed save errors when changing integration types in the Knowledge Model Editor
+
 .. _v5.0:
 
 5.0
